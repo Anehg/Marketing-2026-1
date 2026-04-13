@@ -1,0 +1,2687 @@
+id_cliente,fecha_compra,monto,canal,medio_pago
+C213,2024-07-01,180,Online,Efectivo
+C274,2024-07-01,120,Tienda Física,Efectivo
+C165,2024-07-01,200,Online,Tarjeta Débito
+C017,2024-07-01,30,Tienda Física,Efectivo
+C148,2024-07-02,160,Tienda Física,Tarjeta Débito
+C268,2024-07-02,30,Tienda Física,Efectivo
+C191,2024-07-02,50,Tienda Física,Efectivo
+C207,2024-07-02,50,Tienda Física,Efectivo
+C170,2024-07-03,60,Online,Efectivo
+C267,2024-07-03,10,Tienda Física,Efectivo
+C200,2024-07-03,40,Tienda Física,Efectivo
+C056,2024-07-03,120,Online,Tarjeta Débito
+C026,2024-07-04,100,App,Efectivo
+C259,2024-07-04,140,Tienda Física,Tarjeta Crédito
+C145,2024-07-04,10,Tienda Física,Efectivo
+C260,2024-07-05,100,App,Efectivo
+C275,2024-07-05,200,Online,Tarjeta Débito
+C274,2024-07-05,140,Online,Efectivo
+C213,2024-07-05,200,Tienda Física,Tarjeta Crédito
+C220,2024-07-05,60,Tienda Física,Efectivo
+C100,2024-07-06,140,Tienda Física,Tarjeta Débito
+C051,2024-07-06,140,Online,Tarjeta Crédito
+C262,2024-07-06,100,App,Tarjeta Crédito
+C159,2024-07-07,60,Online,Tarjeta Crédito
+C141,2024-07-07,120,App,Tarjeta Crédito
+C133,2024-07-07,10,Tienda Física,Efectivo
+C198,2024-07-07,120,Online,Tarjeta Débito
+C285,2024-07-07,40,Tienda Física,Efectivo
+C220,2024-07-08,30,Tienda Física,Efectivo
+C240,2024-07-08,120,App,Tarjeta Crédito
+C074,2024-07-08,40,Tienda Física,Efectivo
+C170,2024-07-09,40,Tienda Física,Efectivo
+C033,2024-07-09,50,Tienda Física,Efectivo
+C022,2024-07-10,20,Tienda Física,Efectivo
+C033,2024-07-10,50,Tienda Física,Efectivo
+C014,2024-07-10,200,Online,Tarjeta Crédito
+C020,2024-07-10,160,App,Tarjeta Crédito
+C279,2024-07-10,160,Tienda Física,Tarjeta Débito
+C159,2024-07-10,50,Tienda Física,Efectivo
+C189,2024-07-10,120,Online,Efectivo
+C152,2024-07-11,160,App,Tarjeta Crédito
+C064,2024-07-11,120,Tienda Física,Tarjeta Débito
+C279,2024-07-11,160,Tienda Física,Tarjeta Crédito
+C022,2024-07-11,30,Tienda Física,Efectivo
+C002,2024-07-11,100,App,Efectivo
+C070,2024-07-12,120,App,Tarjeta Crédito
+C185,2024-07-12,30,Tienda Física,Efectivo
+C226,2024-07-12,20,Tienda Física,Efectivo
+C095,2024-07-12,40,Tienda Física,Efectivo
+C171,2024-07-12,120,Tienda Física,Efectivo
+C151,2024-07-12,180,Online,Tarjeta Débito
+C082,2024-07-13,50,Tienda Física,Efectivo
+C209,2024-07-13,60,Tienda Física,Efectivo
+C215,2024-07-13,30,Tienda Física,Efectivo
+C004,2024-07-13,20,Tienda Física,Efectivo
+C148,2024-07-13,100,App,Tarjeta Crédito
+C064,2024-07-13,100,App,Tarjeta Crédito
+C105,2024-07-13,200,Online,Tarjeta Crédito
+C118,2024-07-13,120,Tienda Física,Tarjeta Débito
+C245,2024-07-14,200,Tienda Física,Tarjeta Crédito
+C052,2024-07-14,160,Online,Tarjeta Débito
+C074,2024-07-14,40,Tienda Física,Efectivo
+C218,2024-07-14,40,Tienda Física,Efectivo
+C170,2024-07-14,40,Tienda Física,Efectivo
+C239,2024-07-14,120,Online,Tarjeta Crédito
+C064,2024-07-15,180,App,Tarjeta Crédito
+C026,2024-07-15,120,App,Efectivo
+C189,2024-07-16,200,Online,Tarjeta Crédito
+C079,2024-07-16,30,Tienda Física,Efectivo
+C012,2024-07-16,40,Tienda Física,Efectivo
+C165,2024-07-16,180,Online,Tarjeta Crédito
+C081,2024-07-17,60,Tienda Física,Efectivo
+C275,2024-07-17,200,Online,Tarjeta Débito
+C263,2024-07-17,50,Tienda Física,Efectivo
+C032,2024-07-17,160,App,Tarjeta Débito
+C215,2024-07-17,10,Tienda Física,Efectivo
+C164,2024-07-17,30,Tienda Física,Efectivo
+C189,2024-07-17,140,Tienda Física,Tarjeta Crédito
+C014,2024-07-18,160,App,Efectivo
+C278,2024-07-18,10,Tienda Física,Efectivo
+C068,2024-07-18,40,Tienda Física,Efectivo
+C036,2024-07-18,200,Online,Tarjeta Crédito
+C189,2024-07-18,200,Online,Tarjeta Crédito
+C258,2024-07-18,160,Online,Tarjeta Débito
+C213,2024-07-19,140,App,Efectivo
+C168,2024-07-19,160,Online,Tarjeta Débito
+C145,2024-07-20,30,Tienda Física,Efectivo
+C089,2024-07-20,160,App,Tarjeta Débito
+C148,2024-07-20,100,App,Tarjeta Débito
+C022,2024-07-20,30,Tienda Física,Efectivo
+C289,2024-07-20,140,Online,Efectivo
+C068,2024-07-21,50,Tienda Física,Efectivo
+C145,2024-07-21,10,Tienda Física,Efectivo
+C185,2024-07-21,40,Tienda Física,Efectivo
+C027,2024-07-21,180,Online,Tarjeta Crédito
+C074,2024-07-21,60,Tienda Física,Tarjeta Crédito
+C026,2024-07-21,140,Online,Efectivo
+C207,2024-07-21,50,Tienda Física,Efectivo
+C216,2024-07-21,120,Tienda Física,Tarjeta Crédito
+C194,2024-07-22,180,Tienda Física,Tarjeta Débito
+C189,2024-07-22,160,Tienda Física,Tarjeta Crédito
+C184,2024-07-22,180,Online,Efectivo
+C193,2024-07-22,160,Tienda Física,Tarjeta Crédito
+C247,2024-07-22,120,Online,Tarjeta Débito
+C205,2024-07-24,30,Tienda Física,Efectivo
+C135,2024-07-25,20,Tienda Física,Efectivo
+C116,2024-07-25,200,Online,Tarjeta Débito
+C004,2024-07-25,30,Tienda Física,Efectivo
+C068,2024-07-25,10,Tienda Física,Efectivo
+C213,2024-07-26,140,Online,Tarjeta Crédito
+C194,2024-07-26,180,App,Tarjeta Crédito
+C152,2024-07-26,120,Tienda Física,Efectivo
+C207,2024-07-26,30,Tienda Física,Efectivo
+C022,2024-07-26,10,Tienda Física,Efectivo
+C100,2024-07-27,120,Tienda Física,Tarjeta Crédito
+C002,2024-07-28,100,Online,Tarjeta Crédito
+C184,2024-07-29,120,App,Tarjeta Crédito
+C262,2024-07-29,140,App,Tarjeta Débito
+C232,2024-07-29,40,Tienda Física,Efectivo
+C095,2024-07-29,50,Tienda Física,Efectivo
+C084,2024-07-29,30,Tienda Física,Efectivo
+C193,2024-07-30,160,App,Tarjeta Crédito
+C076,2024-07-30,160,Online,Tarjeta Débito
+C258,2024-07-31,200,Tienda Física,Tarjeta Débito
+C066,2024-07-31,180,Online,Efectivo
+C110,2024-07-31,30,Tienda Física,Efectivo
+C225,2024-07-31,180,App,Tarjeta Débito
+C025,2024-07-31,120,Tienda Física,Tarjeta Débito
+C076,2024-08-01,140,Tienda Física,Tarjeta Crédito
+C014,2024-08-01,140,Online,Tarjeta Débito
+C128,2024-08-01,30,Tienda Física,Efectivo
+C185,2024-08-01,20,Tienda Física,Efectivo
+C031,2024-08-01,200,Tienda Física,Tarjeta Crédito
+C066,2024-08-02,200,Online,Tarjeta Crédito
+C159,2024-08-02,40,Tienda Física,Efectivo
+C084,2024-08-03,10,Tienda Física,Efectivo
+C129,2024-08-03,160,Tienda Física,Efectivo
+C002,2024-08-03,140,Online,Efectivo
+C240,2024-08-03,120,Tienda Física,Tarjeta Débito
+C275,2024-08-05,160,App,Efectivo
+C285,2024-08-05,60,App,Tarjeta Crédito
+C076,2024-08-05,180,Tienda Física,Efectivo
+C081,2024-08-05,40,Tienda Física,Efectivo
+C066,2024-08-06,180,Tienda Física,Efectivo
+C262,2024-08-07,120,App,Efectivo
+C010,2024-08-07,40,Tienda Física,Efectivo
+C232,2024-08-07,60,Online,Tarjeta Crédito
+C082,2024-08-08,30,Tienda Física,Efectivo
+C292,2024-08-08,60,App,Efectivo
+C011,2024-08-08,140,App,Efectivo
+C005,2024-08-08,200,Online,Tarjeta Crédito
+C239,2024-08-09,140,Online,Tarjeta Crédito
+C194,2024-08-09,200,Tienda Física,Tarjeta Crédito
+C292,2024-08-09,10,Tienda Física,Efectivo
+C205,2024-08-09,10,Tienda Física,Efectivo
+C262,2024-08-09,120,Tienda Física,Efectivo
+C217,2024-08-09,20,Tienda Física,Efectivo
+C012,2024-08-09,10,Tienda Física,Efectivo
+C267,2024-08-10,40,Tienda Física,Efectivo
+C017,2024-08-10,30,Tienda Física,Efectivo
+C031,2024-08-10,160,Tienda Física,Tarjeta Crédito
+C095,2024-08-11,50,Tienda Física,Efectivo
+C005,2024-08-12,160,App,Tarjeta Crédito
+C126,2024-08-12,180,Tienda Física,Tarjeta Débito
+C021,2024-08-12,160,Tienda Física,Efectivo
+C247,2024-08-12,200,Tienda Física,Tarjeta Crédito
+C240,2024-08-12,200,Online,Tarjeta Crédito
+C079,2024-08-12,10,Tienda Física,Efectivo
+C232,2024-08-12,40,Tienda Física,Efectivo
+C118,2024-08-13,140,App,Tarjeta Crédito
+C135,2024-08-13,40,Tienda Física,Efectivo
+C247,2024-08-13,140,Tienda Física,Efectivo
+C051,2024-08-13,200,Online,Tarjeta Débito
+C176,2024-08-13,100,Tienda Física,Tarjeta Débito
+C292,2024-08-13,30,Tienda Física,Efectivo
+C110,2024-08-13,40,Tienda Física,Efectivo
+C027,2024-08-14,180,Tienda Física,Tarjeta Débito
+C209,2024-08-14,20,Tienda Física,Efectivo
+C225,2024-08-14,120,Tienda Física,Efectivo
+C084,2024-08-14,10,Tienda Física,Efectivo
+C120,2024-08-14,160,Tienda Física,Tarjeta Crédito
+C204,2024-08-15,120,Tienda Física,Tarjeta Débito
+C260,2024-08-15,100,Tienda Física,Tarjeta Débito
+C135,2024-08-15,60,Tienda Física,Tarjeta Débito
+C051,2024-08-15,120,Online,Tarjeta Débito
+C164,2024-08-15,20,Tienda Física,Efectivo
+C152,2024-08-15,200,Tienda Física,Tarjeta Crédito
+C165,2024-08-16,160,App,Efectivo
+C185,2024-08-16,60,Online,Efectivo
+C194,2024-08-16,200,Tienda Física,Tarjeta Crédito
+C117,2024-08-16,50,Tienda Física,Efectivo
+C204,2024-08-16,180,Tienda Física,Tarjeta Débito
+C082,2024-08-16,30,Tienda Física,Efectivo
+C128,2024-08-16,20,Tienda Física,Efectivo
+C019,2024-08-16,200,Online,Tarjeta Crédito
+C194,2024-08-16,180,App,Tarjeta Débito
+C019,2024-08-16,140,Tienda Física,Efectivo
+C004,2024-08-17,10,Tienda Física,Efectivo
+C042,2024-08-17,160,Tienda Física,Efectivo
+C042,2024-08-17,200,Tienda Física,Tarjeta Débito
+C055,2024-08-17,50,Tienda Física,Efectivo
+C165,2024-08-18,200,Tienda Física,Tarjeta Débito
+C267,2024-08-18,10,Tienda Física,Efectivo
+C268,2024-08-18,40,Tienda Física,Efectivo
+C055,2024-08-19,50,Tienda Física,Efectivo
+C033,2024-08-20,40,Tienda Física,Efectivo
+C148,2024-08-21,120,App,Efectivo
+C068,2024-08-21,10,Tienda Física,Efectivo
+C200,2024-08-21,50,Tienda Física,Efectivo
+C267,2024-08-21,60,App,Efectivo
+C084,2024-08-21,10,Tienda Física,Efectivo
+C275,2024-08-22,160,Tienda Física,Tarjeta Débito
+C220,2024-08-22,50,Tienda Física,Efectivo
+C213,2024-08-22,140,App,Tarjeta Crédito
+C083,2024-08-22,140,App,Tarjeta Crédito
+C152,2024-08-22,180,App,Tarjeta Débito
+C189,2024-08-22,140,Tienda Física,Efectivo
+C002,2024-08-22,120,Online,Tarjeta Débito
+C207,2024-08-22,40,Tienda Física,Efectivo
+C195,2024-08-22,200,Tienda Física,Tarjeta Crédito
+C026,2024-08-23,100,Online,Tarjeta Débito
+C016,2024-08-23,180,App,Tarjeta Débito
+C276,2024-08-23,160,App,Tarjeta Débito
+C033,2024-08-24,50,Tienda Física,Efectivo
+C110,2024-08-24,60,Tienda Física,Tarjeta Crédito
+C165,2024-08-24,180,Online,Tarjeta Débito
+C082,2024-08-25,10,Tienda Física,Efectivo
+C152,2024-08-25,200,Online,Tarjeta Débito
+C128,2024-08-25,20,Tienda Física,Efectivo
+C074,2024-08-25,40,Tienda Física,Efectivo
+C161,2024-08-25,200,Tienda Física,Tarjeta Débito
+C052,2024-08-25,100,App,Tarjeta Débito
+C026,2024-08-26,140,App,Tarjeta Débito
+C200,2024-08-26,50,Tienda Física,Efectivo
+C220,2024-08-26,40,Tienda Física,Efectivo
+C068,2024-08-26,60,Tienda Física,Tarjeta Débito
+C004,2024-08-26,20,Tienda Física,Efectivo
+C278,2024-08-26,60,App,Tarjeta Crédito
+C277,2024-08-26,140,Tienda Física,Efectivo
+C004,2024-08-26,30,Tienda Física,Efectivo
+C076,2024-08-26,100,App,Efectivo
+C107,2024-08-26,30,Tienda Física,Efectivo
+C019,2024-08-27,200,Online,Tarjeta Crédito
+C232,2024-08-27,40,Tienda Física,Efectivo
+C107,2024-08-27,30,Tienda Física,Efectivo
+C066,2024-08-27,200,Online,Tarjeta Crédito
+C126,2024-08-27,200,Tienda Física,Tarjeta Débito
+C074,2024-08-27,40,Tienda Física,Efectivo
+C006,2024-08-28,180,App,Efectivo
+C237,2024-08-28,140,Online,Tarjeta Débito
+C226,2024-08-28,60,App,Tarjeta Crédito
+C141,2024-08-28,100,App,Efectivo
+C107,2024-08-28,20,Tienda Física,Efectivo
+C168,2024-08-29,160,App,Efectivo
+C100,2024-08-29,140,Tienda Física,Efectivo
+C148,2024-08-29,180,Tienda Física,Tarjeta Crédito
+C031,2024-08-29,100,Tienda Física,Tarjeta Crédito
+C020,2024-08-29,200,Tienda Física,Tarjeta Débito
+C105,2024-08-29,180,Tienda Física,Efectivo
+C050,2024-08-29,120,Online,Tarjeta Crédito
+C213,2024-08-29,160,App,Tarjeta Crédito
+C027,2024-08-30,160,App,Tarjeta Crédito
+C285,2024-08-30,50,Tienda Física,Efectivo
+C090,2024-08-30,180,Online,Efectivo
+C079,2024-08-31,10,Tienda Física,Efectivo
+C292,2024-08-31,20,Tienda Física,Efectivo
+C070,2024-08-31,180,App,Tarjeta Débito
+C083,2024-08-31,180,App,Tarjeta Débito
+C296,2024-08-31,60,Tienda Física,Tarjeta Crédito
+C165,2024-08-31,200,Tienda Física,Tarjeta Crédito
+C217,2024-09-01,30,Tienda Física,Efectivo
+C116,2024-09-01,180,Online,Tarjeta Débito
+C159,2024-09-01,60,Tienda Física,Tarjeta Débito
+C145,2024-09-01,10,Tienda Física,Efectivo
+C089,2024-09-03,180,Online,Tarjeta Crédito
+C010,2024-09-04,20,Tienda Física,Efectivo
+C045,2024-09-04,200,Tienda Física,Tarjeta Débito
+C262,2024-09-04,100,Online,Tarjeta Débito
+C152,2024-09-04,160,Online,Tarjeta Débito
+C278,2024-09-04,50,Tienda Física,Efectivo
+C133,2024-09-05,10,Tienda Física,Efectivo
+C029,2024-09-05,40,Tienda Física,Efectivo
+C033,2024-09-05,40,Tienda Física,Efectivo
+C110,2024-09-06,20,Tienda Física,Efectivo
+C176,2024-09-06,120,App,Tarjeta Crédito
+C090,2024-09-06,100,Tienda Física,Tarjeta Débito
+C212,2024-09-06,200,Tienda Física,Tarjeta Débito
+C133,2024-09-06,60,Tienda Física,Tarjeta Crédito
+C070,2024-09-06,180,Tienda Física,Tarjeta Débito
+C245,2024-09-06,160,Online,Tarjeta Crédito
+C004,2024-09-07,20,Tienda Física,Efectivo
+C119,2024-09-07,180,Online,Tarjeta Débito
+C129,2024-09-07,140,Tienda Física,Tarjeta Crédito
+C093,2024-09-08,100,Tienda Física,Tarjeta Débito
+C267,2024-09-08,60,Online,Tarjeta Débito
+C286,2024-09-09,120,Online,Tarjeta Débito
+C003,2024-09-09,40,Tienda Física,Efectivo
+C185,2024-09-09,60,App,Efectivo
+C267,2024-09-09,20,Tienda Física,Efectivo
+C279,2024-09-09,200,Tienda Física,Tarjeta Débito
+C084,2024-09-10,10,Tienda Física,Efectivo
+C180,2024-09-10,40,Tienda Física,Efectivo
+C135,2024-09-10,30,Tienda Física,Efectivo
+C030,2024-09-10,200,Tienda Física,Tarjeta Débito
+C278,2024-09-11,60,App,Efectivo
+C011,2024-09-11,180,Online,Efectivo
+C154,2024-09-11,180,Tienda Física,Tarjeta Crédito
+C276,2024-09-11,100,App,Tarjeta Débito
+C083,2024-09-12,160,Online,Tarjeta Débito
+C239,2024-09-12,100,App,Tarjeta Débito
+C031,2024-09-12,140,Online,Efectivo
+C177,2024-09-12,100,App,Tarjeta Crédito
+C159,2024-09-12,40,Tienda Física,Efectivo
+C003,2024-09-13,50,Tienda Física,Efectivo
+C299,2024-09-13,100,App,Tarjeta Crédito
+C200,2024-09-13,60,Online,Efectivo
+C268,2024-09-13,50,Tienda Física,Efectivo
+C143,2024-09-13,60,Tienda Física,Tarjeta Crédito
+C161,2024-09-13,160,Tienda Física,Tarjeta Débito
+C089,2024-09-14,160,Tienda Física,Tarjeta Crédito
+C268,2024-09-14,40,Tienda Física,Efectivo
+C184,2024-09-14,180,Online,Tarjeta Débito
+C005,2024-09-14,140,Online,Efectivo
+C288,2024-09-15,140,Online,Efectivo
+C016,2024-09-15,200,Tienda Física,Tarjeta Débito
+C020,2024-09-16,160,Tienda Física,Efectivo
+C055,2024-09-16,40,Tienda Física,Efectivo
+C056,2024-09-16,100,Tienda Física,Tarjeta Crédito
+C278,2024-09-16,10,Tienda Física,Efectivo
+C004,2024-09-16,20,Tienda Física,Efectivo
+C006,2024-09-16,160,App,Efectivo
+C120,2024-09-16,180,Tienda Física,Tarjeta Crédito
+C226,2024-09-16,20,Tienda Física,Efectivo
+C240,2024-09-17,140,App,Efectivo
+C093,2024-09-17,140,Tienda Física,Tarjeta Crédito
+C050,2024-09-17,100,Tienda Física,Tarjeta Crédito
+C216,2024-09-17,200,Online,Tarjeta Débito
+C010,2024-09-17,40,Tienda Física,Efectivo
+C055,2024-09-17,40,Tienda Física,Efectivo
+C279,2024-09-18,160,Tienda Física,Efectivo
+C021,2024-09-18,200,Online,Tarjeta Crédito
+C012,2024-09-19,30,Tienda Física,Efectivo
+C110,2024-09-19,20,Tienda Física,Efectivo
+C220,2024-09-19,20,Tienda Física,Efectivo
+C285,2024-09-20,40,Tienda Física,Efectivo
+C182,2024-09-20,180,Tienda Física,Tarjeta Crédito
+C207,2024-09-20,10,Tienda Física,Efectivo
+C232,2024-09-20,60,Online,Tarjeta Débito
+C215,2024-09-20,10,Tienda Física,Efectivo
+C089,2024-09-20,200,Online,Tarjeta Crédito
+C278,2024-09-20,40,Tienda Física,Efectivo
+C018,2024-09-21,200,Tienda Física,Tarjeta Débito
+C022,2024-09-21,30,Tienda Física,Efectivo
+C299,2024-09-21,180,Online,Tarjeta Débito
+C081,2024-09-21,10,Tienda Física,Efectivo
+C003,2024-09-21,50,Tienda Física,Efectivo
+C161,2024-09-21,160,Online,Tarjeta Débito
+C145,2024-09-21,30,Tienda Física,Efectivo
+C299,2024-09-22,120,Online,Tarjeta Crédito
+C170,2024-09-22,60,Tienda Física,Efectivo
+C068,2024-09-22,30,Tienda Física,Efectivo
+C164,2024-09-23,30,Tienda Física,Efectivo
+C042,2024-09-23,200,Tienda Física,Tarjeta Débito
+C154,2024-09-23,100,Tienda Física,Tarjeta Crédito
+C082,2024-09-23,50,Tienda Física,Efectivo
+C207,2024-09-24,20,Tienda Física,Efectivo
+C152,2024-09-24,140,App,Tarjeta Crédito
+C050,2024-09-24,140,Online,Tarjeta Débito
+C050,2024-09-24,100,Online,Efectivo
+C090,2024-09-25,160,Online,Tarjeta Débito
+C027,2024-09-25,180,Online,Tarjeta Crédito
+C093,2024-09-25,120,Tienda Física,Tarjeta Débito
+C018,2024-09-25,180,Online,Tarjeta Crédito
+C033,2024-09-26,60,Online,Tarjeta Débito
+C186,2024-09-26,140,App,Efectivo
+C276,2024-09-26,180,Tienda Física,Efectivo
+C081,2024-09-26,40,Tienda Física,Efectivo
+C165,2024-09-26,160,App,Tarjeta Crédito
+C141,2024-09-27,140,Tienda Física,Efectivo
+C204,2024-09-27,200,Online,Tarjeta Débito
+C268,2024-09-27,60,Online,Tarjeta Crédito
+C090,2024-09-27,120,Online,Tarjeta Débito
+C220,2024-09-28,10,Tienda Física,Efectivo
+C019,2024-09-28,160,App,Tarjeta Débito
+C220,2024-09-28,40,Tienda Física,Efectivo
+C194,2024-09-28,200,Tienda Física,Tarjeta Crédito
+C206,2024-09-28,100,App,Tarjeta Crédito
+C082,2024-09-28,30,Tienda Física,Efectivo
+C205,2024-09-28,50,Tienda Física,Efectivo
+C232,2024-09-28,60,App,Tarjeta Débito
+C260,2024-09-28,140,Online,Efectivo
+C212,2024-09-28,160,Online,Tarjeta Débito
+C118,2024-09-29,120,App,Tarjeta Débito
+C076,2024-09-29,180,App,Tarjeta Crédito
+C129,2024-09-29,120,App,Tarjeta Crédito
+C194,2024-09-29,200,Tienda Física,Tarjeta Crédito
+C081,2024-09-30,10,Tienda Física,Efectivo
+C100,2024-09-30,140,Online,Efectivo
+C084,2024-09-30,30,Tienda Física,Efectivo
+C119,2024-09-30,200,Tienda Física,Tarjeta Crédito
+C011,2024-09-30,140,Tienda Física,Tarjeta Débito
+C045,2024-09-30,120,App,Efectivo
+C220,2024-09-30,50,Tienda Física,Efectivo
+C299,2024-09-30,140,Tienda Física,Efectivo
+C143,2024-10-01,60,App,Tarjeta Débito
+C002,2024-10-01,100,Online,Efectivo
+C256,2024-10-02,140,App,Tarjeta Débito
+C148,2024-10-02,200,Online,Tarjeta Débito
+C154,2024-10-02,100,Online,Efectivo
+C217,2024-10-02,30,Tienda Física,Efectivo
+C256,2024-10-03,140,App,Efectivo
+C026,2024-10-03,140,Tienda Física,Efectivo
+C010,2024-10-03,10,Tienda Física,Efectivo
+C135,2024-10-04,30,Tienda Física,Efectivo
+C191,2024-10-04,20,Tienda Física,Efectivo
+C143,2024-10-04,50,Tienda Física,Efectivo
+C176,2024-10-04,100,Tienda Física,Tarjeta Crédito
+C215,2024-10-04,30,Tienda Física,Efectivo
+C011,2024-10-04,200,Tienda Física,Tarjeta Débito
+C030,2024-10-04,160,Online,Efectivo
+C005,2024-10-05,120,App,Tarjeta Crédito
+C260,2024-10-05,120,App,Tarjeta Crédito
+C285,2024-10-05,50,Tienda Física,Efectivo
+C141,2024-10-05,140,Tienda Física,Tarjeta Débito
+C141,2024-10-05,100,Online,Tarjeta Débito
+C021,2024-10-06,200,Tienda Física,Tarjeta Crédito
+C110,2024-10-07,60,App,Tarjeta Crédito
+C036,2024-10-07,160,App,Efectivo
+C027,2024-10-07,160,Online,Tarjeta Crédito
+C240,2024-10-08,100,App,Tarjeta Crédito
+C133,2024-10-08,50,Tienda Física,Efectivo
+C239,2024-10-08,120,Tienda Física,Efectivo
+C029,2024-10-09,10,Tienda Física,Efectivo
+C296,2024-10-09,60,Tienda Física,Tarjeta Débito
+C017,2024-10-09,60,Tienda Física,Tarjeta Débito
+C189,2024-10-09,100,Online,Tarjeta Débito
+C170,2024-10-09,60,Online,Tarjeta Crédito
+C050,2024-10-10,180,Tienda Física,Tarjeta Crédito
+C089,2024-10-10,200,Tienda Física,Tarjeta Crédito
+C164,2024-10-10,20,Tienda Física,Efectivo
+C286,2024-10-10,120,Tienda Física,Tarjeta Débito
+C148,2024-10-10,140,Online,Tarjeta Crédito
+C164,2024-10-11,50,Tienda Física,Efectivo
+C055,2024-10-11,60,Online,Tarjeta Débito
+C185,2024-10-11,30,Tienda Física,Efectivo
+C020,2024-10-11,180,Tienda Física,Efectivo
+C277,2024-10-12,120,Tienda Física,Efectivo
+C259,2024-10-12,100,Online,Tarjeta Crédito
+C055,2024-10-12,60,App,Tarjeta Crédito
+C186,2024-10-12,200,Tienda Física,Tarjeta Crédito
+C198,2024-10-13,100,App,Tarjeta Crédito
+C171,2024-10-14,140,App,Tarjeta Débito
+C093,2024-10-14,140,Tienda Física,Tarjeta Débito
+C010,2024-10-14,30,Tienda Física,Efectivo
+C171,2024-10-15,100,Tienda Física,Tarjeta Crédito
+C010,2024-10-15,40,Tienda Física,Efectivo
+C031,2024-10-16,100,Online,Tarjeta Crédito
+C191,2024-10-16,20,Tienda Física,Efectivo
+C029,2024-10-16,20,Tienda Física,Efectivo
+C139,2024-10-17,30,Tienda Física,Efectivo
+C204,2024-10-17,120,App,Efectivo
+C154,2024-10-17,160,Tienda Física,Tarjeta Débito
+C205,2024-10-17,30,Tienda Física,Efectivo
+C103,2024-10-17,160,Tienda Física,Tarjeta Débito
+C056,2024-10-18,100,App,Efectivo
+C095,2024-10-18,40,Tienda Física,Efectivo
+C030,2024-10-19,160,Tienda Física,Tarjeta Crédito
+C074,2024-10-19,50,Tienda Física,Efectivo
+C002,2024-10-19,100,Online,Efectivo
+C182,2024-10-20,180,App,Efectivo
+C159,2024-10-20,40,Tienda Física,Efectivo
+C013,2024-10-21,140,App,Tarjeta Débito
+C237,2024-10-21,100,Online,Tarjeta Crédito
+C016,2024-10-21,160,Tienda Física,Efectivo
+C182,2024-10-22,200,Online,Tarjeta Crédito
+C051,2024-10-22,160,App,Tarjeta Débito
+C029,2024-10-22,60,Tienda Física,Tarjeta Débito
+C143,2024-10-22,50,Tienda Física,Efectivo
+C245,2024-10-22,180,Online,Tarjeta Débito
+C209,2024-10-23,10,Tienda Física,Efectivo
+C171,2024-10-23,100,Tienda Física,Efectivo
+C195,2024-10-23,180,App,Tarjeta Crédito
+C165,2024-10-23,200,Tienda Física,Tarjeta Crédito
+C207,2024-10-23,20,Tienda Física,Efectivo
+C207,2024-10-23,10,Tienda Física,Efectivo
+C076,2024-10-24,160,Online,Tarjeta Crédito
+C012,2024-10-24,30,Tienda Física,Efectivo
+C209,2024-10-24,10,Tienda Física,Efectivo
+C207,2024-10-24,60,App,Tarjeta Débito
+C296,2024-10-25,50,Tienda Física,Efectivo
+C022,2024-10-25,10,Tienda Física,Efectivo
+C176,2024-10-25,140,Online,Tarjeta Crédito
+C180,2024-10-25,40,Tienda Física,Efectivo
+C292,2024-10-26,20,Tienda Física,Efectivo
+C285,2024-10-26,40,Tienda Física,Efectivo
+C128,2024-10-26,20,Tienda Física,Efectivo
+C084,2024-10-27,10,Tienda Física,Efectivo
+C194,2024-10-27,200,Online,Tarjeta Crédito
+C135,2024-10-28,50,Tienda Física,Efectivo
+C216,2024-10-28,160,App,Tarjeta Crédito
+C195,2024-10-28,180,Online,Tarjeta Crédito
+C076,2024-10-28,160,Tienda Física,Tarjeta Crédito
+C170,2024-10-28,60,Tienda Física,Efectivo
+C191,2024-10-28,10,Tienda Física,Efectivo
+C237,2024-10-29,100,App,Tarjeta Crédito
+C005,2024-10-29,180,Tienda Física,Tarjeta Débito
+C083,2024-10-29,200,Online,Tarjeta Crédito
+C218,2024-10-29,50,Tienda Física,Efectivo
+C100,2024-10-29,100,Online,Tarjeta Crédito
+C176,2024-10-30,160,Tienda Física,Tarjeta Crédito
+C216,2024-10-30,160,Online,Tarjeta Crédito
+C018,2024-10-30,200,Tienda Física,Tarjeta Crédito
+C278,2024-10-31,30,Tienda Física,Efectivo
+C278,2024-10-31,40,Tienda Física,Efectivo
+C218,2024-10-31,60,App,Efectivo
+C012,2024-10-31,30,Tienda Física,Efectivo
+C003,2024-10-31,50,Tienda Física,Efectivo
+C205,2024-11-01,50,Tienda Física,Efectivo
+C105,2024-11-01,180,Online,Tarjeta Crédito
+C006,2024-11-01,200,Tienda Física,Tarjeta Débito
+C185,2024-11-01,50,Tienda Física,Efectivo
+C263,2024-11-01,40,Tienda Física,Efectivo
+C135,2024-11-01,60,Tienda Física,Tarjeta Débito
+C215,2024-11-01,10,Tienda Física,Efectivo
+C279,2024-11-01,160,Tienda Física,Efectivo
+C217,2024-11-01,30,Tienda Física,Efectivo
+C093,2024-11-01,100,App,Tarjeta Crédito
+C029,2024-11-01,40,Tienda Física,Efectivo
+C042,2024-11-01,180,Online,Efectivo
+C285,2024-11-02,60,Online,Tarjeta Crédito
+C247,2024-11-02,180,Tienda Física,Tarjeta Crédito
+C267,2024-11-02,40,Tienda Física,Efectivo
+C117,2024-11-02,60,Tienda Física,Tarjeta Débito
+C070,2024-11-02,160,App,Efectivo
+C277,2024-11-02,140,Online,Tarjeta Débito
+C083,2024-11-02,160,Tienda Física,Efectivo
+C165,2024-11-03,160,Online,Tarjeta Débito
+C032,2024-11-03,100,App,Tarjeta Crédito
+C232,2024-11-04,60,Online,Tarjeta Débito
+C119,2024-11-04,200,Online,Tarjeta Crédito
+C268,2024-11-05,50,Tienda Física,Efectivo
+C177,2024-11-05,180,Tienda Física,Tarjeta Débito
+C205,2024-11-05,10,Tienda Física,Efectivo
+C042,2024-11-06,200,Online,Tarjeta Crédito
+C194,2024-11-06,200,Online,Tarjeta Crédito
+C019,2024-11-06,160,Tienda Física,Tarjeta Crédito
+C022,2024-11-06,10,Tienda Física,Efectivo
+C206,2024-11-07,200,Tienda Física,Tarjeta Crédito
+C231,2024-11-07,180,Online,Tarjeta Débito
+C030,2024-11-07,160,Online,Tarjeta Crédito
+C237,2024-11-07,140,Online,Efectivo
+C268,2024-11-07,40,Tienda Física,Efectivo
+C030,2024-11-07,180,Online,Efectivo
+C128,2024-11-07,20,Tienda Física,Efectivo
+C095,2024-11-07,40,Tienda Física,Efectivo
+C013,2024-11-07,140,Tienda Física,Efectivo
+C051,2024-11-08,180,Online,Efectivo
+C286,2024-11-08,140,Online,Tarjeta Crédito
+C118,2024-11-08,100,Online,Tarjeta Débito
+C089,2024-11-08,200,Tienda Física,Tarjeta Crédito
+C070,2024-11-09,180,Tienda Física,Efectivo
+C133,2024-11-09,40,Tienda Física,Efectivo
+C135,2024-11-09,60,Online,Tarjeta Crédito
+C143,2024-11-09,60,Online,Efectivo
+C002,2024-11-09,100,Tienda Física,Tarjeta Débito
+C185,2024-11-09,60,App,Tarjeta Débito
+C081,2024-11-09,30,Tienda Física,Efectivo
+C029,2024-11-09,40,Tienda Física,Efectivo
+C011,2024-11-09,140,Tienda Física,Efectivo
+C215,2024-11-09,30,Tienda Física,Efectivo
+C263,2024-11-10,20,Tienda Física,Efectivo
+C159,2024-11-10,60,Online,Tarjeta Crédito
+C268,2024-11-10,60,Online,Tarjeta Crédito
+C021,2024-11-11,160,Online,Efectivo
+C052,2024-11-11,100,Tienda Física,Efectivo
+C189,2024-11-11,180,Tienda Física,Tarjeta Crédito
+C120,2024-11-11,180,Online,Tarjeta Débito
+C278,2024-11-12,60,App,Efectivo
+C218,2024-11-12,60,Tienda Física,Tarjeta Crédito
+C194,2024-11-13,180,App,Efectivo
+C168,2024-11-13,180,Online,Tarjeta Débito
+C064,2024-11-13,100,Tienda Física,Tarjeta Crédito
+C082,2024-11-13,30,Tienda Física,Efectivo
+C245,2024-11-13,200,Online,Tarjeta Débito
+C021,2024-11-13,160,Online,Tarjeta Crédito
+C090,2024-11-13,200,Tienda Física,Tarjeta Crédito
+C002,2024-11-13,100,Tienda Física,Tarjeta Débito
+C020,2024-11-13,200,Online,Tarjeta Débito
+C082,2024-11-14,60,Tienda Física,Efectivo
+C105,2024-11-15,200,Tienda Física,Tarjeta Crédito
+C118,2024-11-15,100,Online,Tarjeta Crédito
+C068,2024-11-15,20,Tienda Física,Efectivo
+C198,2024-11-15,140,Tienda Física,Tarjeta Débito
+C081,2024-11-15,50,Tienda Física,Efectivo
+C020,2024-11-16,180,App,Efectivo
+C184,2024-11-16,120,Tienda Física,Tarjeta Débito
+C151,2024-11-16,180,App,Tarjeta Débito
+C217,2024-11-16,10,Tienda Física,Efectivo
+C128,2024-11-16,20,Tienda Física,Efectivo
+C105,2024-11-16,160,App,Tarjeta Débito
+C161,2024-11-16,200,Online,Tarjeta Crédito
+C032,2024-11-17,180,Online,Tarjeta Crédito
+C116,2024-11-17,180,Tienda Física,Tarjeta Débito
+C151,2024-11-17,140,Online,Tarjeta Crédito
+C033,2024-11-18,60,Online,Tarjeta Débito
+C066,2024-11-18,180,Tienda Física,Efectivo
+C177,2024-11-18,140,Online,Efectivo
+C030,2024-11-19,180,App,Tarjeta Débito
+C095,2024-11-19,50,Tienda Física,Efectivo
+C171,2024-11-19,100,Online,Tarjeta Débito
+C267,2024-11-19,20,Tienda Física,Efectivo
+C014,2024-11-19,180,Tienda Física,Efectivo
+C185,2024-11-19,60,Tienda Física,Tarjeta Débito
+C292,2024-11-19,20,Tienda Física,Efectivo
+C120,2024-11-19,200,Tienda Física,Tarjeta Débito
+C268,2024-11-19,10,Tienda Física,Efectivo
+C055,2024-11-20,40,Tienda Física,Efectivo
+C146,2024-11-20,30,Tienda Física,Efectivo
+C033,2024-11-20,40,Tienda Física,Efectivo
+C299,2024-11-21,140,Tienda Física,Tarjeta Débito
+C133,2024-11-21,30,Tienda Física,Efectivo
+C017,2024-11-21,20,Tienda Física,Efectivo
+C022,2024-11-21,30,Tienda Física,Efectivo
+C247,2024-11-21,200,Tienda Física,Tarjeta Débito
+C145,2024-11-21,40,Tienda Física,Efectivo
+C082,2024-11-22,50,Tienda Física,Efectivo
+C259,2024-11-22,160,Tienda Física,Tarjeta Débito
+C133,2024-11-22,60,App,Tarjeta Crédito
+C200,2024-11-22,50,Tienda Física,Efectivo
+C279,2024-11-22,180,Online,Tarjeta Crédito
+C237,2024-11-23,120,Tienda Física,Efectivo
+C217,2024-11-23,30,Tienda Física,Efectivo
+C182,2024-11-24,180,App,Efectivo
+C171,2024-11-24,140,App,Tarjeta Débito
+C288,2024-11-24,100,App,Efectivo
+C026,2024-11-24,120,Tienda Física,Efectivo
+C191,2024-11-25,20,Tienda Física,Efectivo
+C247,2024-11-25,180,Online,Tarjeta Débito
+C231,2024-11-25,200,Online,Tarjeta Débito
+C116,2024-11-25,180,Tienda Física,Tarjeta Crédito
+C205,2024-11-25,40,Tienda Física,Efectivo
+C165,2024-11-25,200,Tienda Física,Tarjeta Débito
+C198,2024-11-25,100,App,Tarjeta Débito
+C051,2024-11-26,180,App,Tarjeta Crédito
+C288,2024-11-26,120,Tienda Física,Tarjeta Crédito
+C117,2024-11-26,60,App,Tarjeta Crédito
+C031,2024-11-27,180,App,Efectivo
+C033,2024-11-27,60,Online,Tarjeta Crédito
+C171,2024-11-27,100,Tienda Física,Tarjeta Débito
+C247,2024-11-27,100,App,Tarjeta Crédito
+C296,2024-11-28,50,Tienda Física,Efectivo
+C262,2024-11-28,120,Online,Tarjeta Crédito
+C263,2024-11-28,60,Tienda Física,Tarjeta Crédito
+C193,2024-11-28,160,App,Tarjeta Crédito
+C232,2024-11-28,40,Tienda Física,Efectivo
+C110,2024-11-28,30,Tienda Física,Efectivo
+C262,2024-11-29,120,Tienda Física,Tarjeta Crédito
+C263,2024-11-29,50,Tienda Física,Efectivo
+C296,2024-11-29,40,Tienda Física,Efectivo
+C274,2024-11-30,100,Online,Efectivo
+C289,2024-11-30,140,Online,Efectivo
+C019,2024-11-30,200,Tienda Física,Tarjeta Débito
+C082,2024-11-30,20,Tienda Física,Efectivo
+C126,2024-11-30,180,App,Tarjeta Débito
+C145,2024-12-01,60,Online,Tarjeta Crédito
+C027,2024-12-01,160,App,Tarjeta Crédito
+C296,2024-12-02,60,Online,Efectivo
+C277,2024-12-02,100,Tienda Física,Tarjeta Débito
+C268,2024-12-02,50,Tienda Física,Efectivo
+C259,2024-12-02,120,App,Tarjeta Débito
+C006,2024-12-02,180,App,Efectivo
+C268,2024-12-03,60,App,Tarjeta Débito
+C231,2024-12-03,200,Online,Tarjeta Débito
+C168,2024-12-03,200,Tienda Física,Tarjeta Crédito
+C212,2024-12-04,200,Online,Tarjeta Crédito
+C185,2024-12-04,10,Tienda Física,Efectivo
+C107,2024-12-04,20,Tienda Física,Efectivo
+C107,2024-12-04,10,Tienda Física,Efectivo
+C286,2024-12-05,140,Tienda Física,Tarjeta Crédito
+C151,2024-12-05,100,Online,Efectivo
+C226,2024-12-05,30,Tienda Física,Efectivo
+C256,2024-12-05,140,Tienda Física,Tarjeta Crédito
+C141,2024-12-05,100,Online,Tarjeta Débito
+C154,2024-12-05,140,Tienda Física,Tarjeta Débito
+C218,2024-12-06,60,App,Tarjeta Crédito
+C164,2024-12-06,60,App,Efectivo
+C064,2024-12-06,140,Tienda Física,Tarjeta Crédito
+C152,2024-12-06,100,Tienda Física,Tarjeta Débito
+C139,2024-12-06,30,Tienda Física,Efectivo
+C064,2024-12-06,180,Tienda Física,Tarjeta Débito
+C027,2024-12-06,180,Online,Tarjeta Débito
+C240,2024-12-06,160,App,Efectivo
+C095,2024-12-07,60,App,Tarjeta Crédito
+C200,2024-12-07,50,Tienda Física,Efectivo
+C036,2024-12-07,200,Tienda Física,Tarjeta Débito
+C212,2024-12-07,180,Online,Tarjeta Crédito
+C033,2024-12-08,40,Tienda Física,Efectivo
+C133,2024-12-08,60,Online,Efectivo
+C161,2024-12-08,160,Online,Tarjeta Crédito
+C226,2024-12-08,10,Tienda Física,Efectivo
+C110,2024-12-08,40,Tienda Física,Efectivo
+C105,2024-12-08,160,Tienda Física,Tarjeta Débito
+C056,2024-12-08,100,Tienda Física,Tarjeta Crédito
+C161,2024-12-09,200,Tienda Física,Tarjeta Débito
+C030,2024-12-09,200,Tienda Física,Tarjeta Débito
+C218,2024-12-09,10,Tienda Física,Efectivo
+C135,2024-12-09,60,Tienda Física,Tarjeta Débito
+C205,2024-12-09,40,Tienda Física,Efectivo
+C139,2024-12-09,30,Tienda Física,Efectivo
+C206,2024-12-09,200,Online,Tarjeta Débito
+C206,2024-12-10,200,Tienda Física,Tarjeta Débito
+C225,2024-12-10,120,App,Efectivo
+C279,2024-12-10,200,Tienda Física,Tarjeta Débito
+C212,2024-12-10,180,App,Efectivo
+C205,2024-12-10,10,Tienda Física,Efectivo
+C012,2024-12-10,50,Tienda Física,Efectivo
+C135,2024-12-10,40,Tienda Física,Efectivo
+C083,2024-12-11,160,App,Tarjeta Débito
+C119,2024-12-11,180,App,Efectivo
+C100,2024-12-11,140,Tienda Física,Tarjeta Débito
+C288,2024-12-11,100,App,Tarjeta Crédito
+C186,2024-12-12,180,Tienda Física,Tarjeta Crédito
+C143,2024-12-12,40,Tienda Física,Efectivo
+C275,2024-12-12,200,Online,Tarjeta Crédito
+C170,2024-12-12,60,Tienda Física,Tarjeta Débito
+C093,2024-12-12,100,App,Efectivo
+C193,2024-12-12,200,Tienda Física,Tarjeta Crédito
+C146,2024-12-13,40,Tienda Física,Efectivo
+C139,2024-12-13,10,Tienda Física,Efectivo
+C079,2024-12-13,10,Tienda Física,Efectivo
+C216,2024-12-13,120,Online,Tarjeta Crédito
+C207,2024-12-13,60,App,Tarjeta Crédito
+C118,2024-12-14,120,Tienda Física,Tarjeta Débito
+C170,2024-12-14,40,Tienda Física,Efectivo
+C003,2024-12-14,60,Online,Tarjeta Débito
+C045,2024-12-14,120,App,Efectivo
+C206,2024-12-14,100,Tienda Física,Tarjeta Crédito
+C139,2024-12-15,30,Tienda Física,Efectivo
+C268,2024-12-15,60,App,Tarjeta Débito
+C006,2024-12-15,160,App,Tarjeta Crédito
+C081,2024-12-15,60,Online,Efectivo
+C171,2024-12-15,100,App,Tarjeta Crédito
+C095,2024-12-15,60,Tienda Física,Tarjeta Débito
+C005,2024-12-16,100,Online,Tarjeta Débito
+C216,2024-12-16,180,Online,Efectivo
+C159,2024-12-16,60,Tienda Física,Efectivo
+C226,2024-12-16,20,Tienda Física,Efectivo
+C095,2024-12-16,60,Tienda Física,Tarjeta Crédito
+C055,2024-12-17,60,App,Tarjeta Débito
+C133,2024-12-17,60,App,Efectivo
+C070,2024-12-17,200,Online,Tarjeta Débito
+C068,2024-12-17,60,Online,Tarjeta Débito
+C217,2024-12-18,30,Tienda Física,Efectivo
+C083,2024-12-18,160,App,Efectivo
+C225,2024-12-19,120,Tienda Física,Efectivo
+C217,2024-12-19,10,Tienda Física,Efectivo
+C014,2024-12-19,100,Online,Tarjeta Crédito
+C032,2024-12-19,140,Tienda Física,Tarjeta Crédito
+C082,2024-12-19,40,Tienda Física,Efectivo
+C032,2024-12-19,180,Tienda Física,Tarjeta Débito
+C006,2024-12-19,180,Online,Tarjeta Crédito
+C119,2024-12-20,200,Online,Tarjeta Crédito
+C107,2024-12-20,20,Tienda Física,Efectivo
+C079,2024-12-20,20,Tienda Física,Efectivo
+C120,2024-12-20,180,Online,Tarjeta Crédito
+C274,2024-12-20,120,Tienda Física,Efectivo
+C089,2024-12-20,160,Tienda Física,Tarjeta Débito
+C259,2024-12-21,160,Online,Tarjeta Crédito
+C029,2024-12-21,60,Online,Efectivo
+C103,2024-12-21,160,Online,Tarjeta Crédito
+C240,2024-12-21,160,Online,Tarjeta Débito
+C184,2024-12-22,180,App,Tarjeta Débito
+C260,2024-12-22,100,App,Efectivo
+C171,2024-12-22,100,App,Tarjeta Crédito
+C180,2024-12-22,20,Tienda Física,Efectivo
+C017,2024-12-22,50,Tienda Física,Efectivo
+C010,2024-12-23,20,Tienda Física,Efectivo
+C148,2024-12-23,100,App,Tarjeta Crédito
+C014,2024-12-23,100,Tienda Física,Tarjeta Débito
+C055,2024-12-24,60,Online,Tarjeta Crédito
+C051,2024-12-24,140,Online,Tarjeta Débito
+C141,2024-12-24,100,Online,Efectivo
+C267,2024-12-24,40,Tienda Física,Efectivo
+C119,2024-12-24,160,Online,Tarjeta Débito
+C231,2024-12-24,160,Tienda Física,Efectivo
+C292,2024-12-24,10,Tienda Física,Efectivo
+C089,2024-12-25,180,Tienda Física,Tarjeta Débito
+C107,2024-12-25,20,Tienda Física,Efectivo
+C274,2024-12-25,120,Tienda Física,Tarjeta Crédito
+C005,2024-12-25,100,App,Efectivo
+C218,2024-12-25,50,Tienda Física,Efectivo
+C239,2024-12-25,120,Online,Tarjeta Crédito
+C220,2024-12-25,40,Tienda Física,Efectivo
+C189,2024-12-25,100,Online,Tarjeta Crédito
+C029,2024-12-25,20,Tienda Física,Efectivo
+C119,2024-12-25,180,App,Efectivo
+C195,2024-12-25,160,Tienda Física,Tarjeta Crédito
+C003,2024-12-26,50,Tienda Física,Efectivo
+C218,2024-12-27,10,Tienda Física,Efectivo
+C277,2024-12-27,160,App,Efectivo
+C145,2024-12-27,10,Tienda Física,Efectivo
+C004,2024-12-27,10,Tienda Física,Efectivo
+C120,2024-12-27,160,Tienda Física,Efectivo
+C184,2024-12-27,180,Tienda Física,Tarjeta Crédito
+C021,2024-12-27,160,Tienda Física,Efectivo
+C103,2024-12-27,180,Online,Tarjeta Crédito
+C089,2024-12-28,160,App,Tarjeta Débito
+C274,2024-12-28,100,Tienda Física,Efectivo
+C074,2024-12-29,50,Tienda Física,Efectivo
+C299,2024-12-29,140,Tienda Física,Tarjeta Débito
+C095,2024-12-30,60,Online,Efectivo
+C129,2024-12-30,200,Online,Tarjeta Débito
+C056,2024-12-30,100,Tienda Física,Efectivo
+C151,2024-12-30,160,Online,Tarjeta Débito
+C217,2024-12-30,20,Tienda Física,Efectivo
+C103,2024-12-30,160,Tienda Física,Tarjeta Débito
+C141,2024-12-30,100,App,Efectivo
+C050,2024-12-30,180,Online,Efectivo
+C128,2024-12-30,30,Tienda Física,Efectivo
+C299,2024-12-30,200,Tienda Física,Tarjeta Débito
+C288,2024-12-30,100,Tienda Física,Tarjeta Crédito
+C117,2024-12-31,50,Tienda Física,Efectivo
+C168,2024-12-31,160,Online,Efectivo
+C123,2025-01-01,120,Online,Tarjeta Débito
+C266,2025-01-01,350,Tienda Física,Tarjeta Débito
+C080,2025-01-01,140,Tienda Física,Tarjeta Crédito
+C219,2025-01-01,140,App,Tarjeta Débito
+C296,2025-01-01,50,Tienda Física,Efectivo
+C191,2025-01-01,60,Tienda Física,Efectivo
+C135,2025-01-01,10,Tienda Física,Efectivo
+C210,2025-01-01,450,Tienda Física,Tarjeta Crédito
+C097,2025-01-01,300,Tienda Física,Tarjeta Crédito
+C042,2025-01-02,200,Online,Tarjeta Débito
+C032,2025-01-02,180,App,Tarjeta Crédito
+C048,2025-01-02,450,Tienda Física,Tarjeta Crédito
+C142,2025-01-02,480,Tienda Física,Tarjeta Crédito
+C045,2025-01-02,200,Online,Tarjeta Débito
+C158,2025-01-02,400,Tienda Física,Tarjeta Crédito
+C195,2025-01-02,160,App,Efectivo
+C025,2025-01-02,100,App,Tarjeta Crédito
+C143,2025-01-02,50,Tienda Física,Efectivo
+C271,2025-01-03,160,Online,Efectivo
+C271,2025-01-03,160,Tienda Física,Efectivo
+C284,2025-01-03,100,Online,Tarjeta Crédito
+C063,2025-01-03,200,Online,Tarjeta Débito
+C099,2025-01-03,450,Tienda Física,Tarjeta Crédito
+C157,2025-01-03,450,Tienda Física,Tarjeta Crédito
+C078,2025-01-03,500,Tienda Física,Tarjeta Crédito
+C058,2025-01-03,480,Tienda Física,Tarjeta Crédito
+C208,2025-01-03,350,Online,Tarjeta Débito
+C008,2025-01-03,400,Tienda Física,Tarjeta Crédito
+C147,2025-01-04,160,Online,Tarjeta Crédito
+C250,2025-01-04,180,App,Tarjeta Débito
+C260,2025-01-04,140,Tienda Física,Tarjeta Crédito
+C261,2025-01-04,480,Tienda Física,Tarjeta Crédito
+C243,2025-01-04,200,Tienda Física,Tarjeta Crédito
+C115,2025-01-04,100,Online,Tarjeta Débito
+C039,2025-01-04,350,Online,Tarjeta Débito
+C148,2025-01-04,200,Online,Tarjeta Débito
+C022,2025-01-04,20,Tienda Física,Efectivo
+C156,2025-01-04,120,Tienda Física,Tarjeta Crédito
+C079,2025-01-04,30,Tienda Física,Efectivo
+C289,2025-01-04,100,Online,Tarjeta Crédito
+C271,2025-01-04,180,App,Tarjeta Débito
+C066,2025-01-04,180,Tienda Física,Tarjeta Crédito
+C046,2025-01-05,200,Tienda Física,Tarjeta Débito
+C059,2025-01-05,480,Tienda Física,Tarjeta Crédito
+C271,2025-01-05,180,Tienda Física,Tarjeta Crédito
+C071,2025-01-05,480,Tienda Física,Tarjeta Crédito
+C258,2025-01-05,200,Online,Tarjeta Débito
+C070,2025-01-05,120,Online,Tarjeta Crédito
+C176,2025-01-06,140,Online,Tarjeta Crédito
+C283,2025-01-06,450,Tienda Física,Tarjeta Crédito
+C132,2025-01-06,500,Tienda Física,Tarjeta Crédito
+C115,2025-01-06,180,App,Efectivo
+C085,2025-01-06,500,Tienda Física,Tarjeta Crédito
+C075,2025-01-06,450,Tienda Física,Tarjeta Crédito
+C065,2025-01-06,140,Online,Efectivo
+C013,2025-01-06,140,Online,Tarjeta Crédito
+C038,2025-01-06,200,Online,Tarjeta Débito
+C043,2025-01-06,480,Tienda Física,Tarjeta Crédito
+C044,2025-01-06,180,Online,Tarjeta Débito
+C236,2025-01-07,350,Online,Tarjeta Crédito
+C287,2025-01-07,500,Tienda Física,Tarjeta Crédito
+C024,2025-01-07,200,Tienda Física,Tarjeta Débito
+C213,2025-01-07,140,Tienda Física,Tarjeta Crédito
+C130,2025-01-07,140,Tienda Física,Tarjeta Débito
+C020,2025-01-07,160,Online,Tarjeta Débito
+C018,2025-01-07,180,Online,Tarjeta Crédito
+C061,2025-01-07,350,Online,Tarjeta Débito
+C187,2025-01-07,200,Tienda Física,Tarjeta Débito
+C206,2025-01-07,100,App,Efectivo
+C267,2025-01-07,10,Tienda Física,Efectivo
+C256,2025-01-07,140,Tienda Física,Tarjeta Crédito
+C271,2025-01-07,200,Online,Tarjeta Crédito
+C172,2025-01-07,400,Tienda Física,Tarjeta Crédito
+C174,2025-01-07,400,Tienda Física,Tarjeta Crédito
+C237,2025-01-07,140,App,Efectivo
+C266,2025-01-08,350,Tienda Física,Tarjeta Débito
+C220,2025-01-08,60,App,Efectivo
+C193,2025-01-08,180,Online,Tarjeta Débito
+C214,2025-01-08,120,App,Tarjeta Débito
+C177,2025-01-08,140,App,Efectivo
+C092,2025-01-08,300,Online,Tarjeta Débito
+C052,2025-01-08,160,Tienda Física,Efectivo
+C052,2025-01-08,160,App,Efectivo
+C293,2025-01-08,180,Tienda Física,Tarjeta Crédito
+C205,2025-01-08,50,Tienda Física,Efectivo
+C063,2025-01-09,180,App,Tarjeta Débito
+C140,2025-01-09,500,Tienda Física,Tarjeta Crédito
+C284,2025-01-09,160,App,Tarjeta Crédito
+C295,2025-01-09,160,Tienda Física,Tarjeta Crédito
+C250,2025-01-09,140,Tienda Física,Tarjeta Crédito
+C074,2025-01-09,60,Tienda Física,Tarjeta Débito
+C064,2025-01-09,180,Tienda Física,Tarjeta Crédito
+C253,2025-01-09,200,Tienda Física,Tarjeta Débito
+C176,2025-01-09,100,Online,Efectivo
+C056,2025-01-09,120,Tienda Física,Tarjeta Débito
+C095,2025-01-09,40,Tienda Física,Efectivo
+C201,2025-01-10,350,Tienda Física,Tarjeta Débito
+C011,2025-01-10,120,Online,Tarjeta Débito
+C179,2025-01-10,120,App,Tarjeta Débito
+C138,2025-01-10,300,Tienda Física,Tarjeta Débito
+C116,2025-01-10,180,App,Efectivo
+C060,2025-01-10,400,Tienda Física,Tarjeta Crédito
+C148,2025-01-10,100,Online,Tarjeta Débito
+C291,2025-01-10,500,Tienda Física,Tarjeta Crédito
+C276,2025-01-10,160,App,Tarjeta Crédito
+C149,2025-01-10,120,Online,Tarjeta Crédito
+C259,2025-01-10,180,Online,Tarjeta Débito
+C107,2025-01-11,20,Tienda Física,Efectivo
+C037,2025-01-11,180,App,Efectivo
+C211,2025-01-11,480,Tienda Física,Tarjeta Crédito
+C280,2025-01-11,300,Online,Tarjeta Crédito
+C054,2025-01-11,480,Tienda Física,Tarjeta Crédito
+C246,2025-01-11,480,Tienda Física,Tarjeta Crédito
+C245,2025-01-11,160,Online,Tarjeta Débito
+C134,2025-01-11,400,Tienda Física,Tarjeta Crédito
+C293,2025-01-11,200,Online,Tarjeta Débito
+C268,2025-01-11,40,Tienda Física,Efectivo
+C113,2025-01-11,120,Online,Efectivo
+C077,2025-01-11,300,Tienda Física,Tarjeta Débito
+C145,2025-01-11,10,Tienda Física,Efectivo
+C026,2025-01-12,120,Online,Tarjeta Crédito
+C012,2025-01-12,60,Tienda Física,Efectivo
+C242,2025-01-12,140,Tienda Física,Tarjeta Crédito
+C123,2025-01-12,100,Tienda Física,Tarjeta Débito
+C088,2025-01-12,450,Tienda Física,Tarjeta Crédito
+C041,2025-01-12,300,Tienda Física,Tarjeta Débito
+C126,2025-01-12,140,App,Tarjeta Crédito
+C254,2025-01-12,480,Tienda Física,Tarjeta Crédito
+C274,2025-01-12,120,Online,Efectivo
+C251,2025-01-12,350,Tienda Física,Tarjeta Crédito
+C241,2025-01-13,350,Online,Tarjeta Crédito
+C083,2025-01-13,160,Tienda Física,Tarjeta Crédito
+C149,2025-01-13,140,App,Tarjeta Débito
+C294,2025-01-13,120,Tienda Física,Tarjeta Débito
+C017,2025-01-13,30,Tienda Física,Efectivo
+C208,2025-01-13,500,Tienda Física,Tarjeta Crédito
+C154,2025-01-13,140,Online,Efectivo
+C126,2025-01-13,200,Tienda Física,Tarjeta Crédito
+C152,2025-01-14,100,App,Tarjeta Crédito
+C111,2025-01-14,480,Tienda Física,Tarjeta Crédito
+C126,2025-01-14,120,Online,Efectivo
+C282,2025-01-14,300,Tienda Física,Tarjeta Crédito
+C264,2025-01-14,350,Tienda Física,Tarjeta Débito
+C225,2025-01-14,180,Online,Tarjeta Crédito
+C062,2025-01-14,160,App,Tarjeta Crédito
+C197,2025-01-14,100,Tienda Física,Tarjeta Crédito
+C082,2025-01-14,50,Tienda Física,Efectivo
+C127,2025-01-14,180,Online,Tarjeta Crédito
+C117,2025-01-14,40,Tienda Física,Efectivo
+C126,2025-01-14,140,Tienda Física,Tarjeta Débito
+C059,2025-01-14,350,Online,Tarjeta Débito
+C010,2025-01-15,60,App,Tarjeta Débito
+C269,2025-01-15,500,Tienda Física,Tarjeta Crédito
+C285,2025-01-15,60,Online,Tarjeta Débito
+C198,2025-01-16,120,App,Efectivo
+C003,2025-01-16,50,Tienda Física,Efectivo
+C201,2025-01-16,450,Tienda Física,Tarjeta Crédito
+C036,2025-01-16,180,Online,Tarjeta Crédito
+C203,2025-01-16,500,Tienda Física,Tarjeta Crédito
+C085,2025-01-16,350,Online,Tarjeta Crédito
+C101,2025-01-16,120,App,Tarjeta Débito
+C044,2025-01-16,140,Online,Tarjeta Débito
+C109,2025-01-16,500,Tienda Física,Tarjeta Crédito
+C182,2025-01-16,200,Tienda Física,Tarjeta Débito
+C212,2025-01-16,180,App,Efectivo
+C084,2025-01-17,10,Tienda Física,Efectivo
+C006,2025-01-17,180,Tienda Física,Tarjeta Crédito
+C152,2025-01-17,160,App,Tarjeta Débito
+C065,2025-01-17,180,Online,Efectivo
+C120,2025-01-17,180,Online,Efectivo
+C211,2025-01-17,300,Tienda Física,Tarjeta Débito
+C296,2025-01-17,60,App,Efectivo
+C242,2025-01-17,100,Tienda Física,Tarjeta Crédito
+C191,2025-01-17,10,Tienda Física,Efectivo
+C007,2025-01-17,480,Tienda Física,Tarjeta Crédito
+C196,2025-01-17,500,Tienda Física,Tarjeta Crédito
+C124,2025-01-18,480,Tienda Física,Tarjeta Crédito
+C110,2025-01-18,60,Online,Tarjeta Crédito
+C084,2025-01-18,30,Tienda Física,Efectivo
+C169,2025-01-18,350,Online,Tarjeta Débito
+C114,2025-01-18,300,Tienda Física,Tarjeta Débito
+C167,2025-01-18,100,App,Tarjeta Débito
+C125,2025-01-18,400,Tienda Física,Tarjeta Crédito
+C284,2025-01-18,100,Tienda Física,Tarjeta Débito
+C296,2025-01-19,50,Tienda Física,Efectivo
+C010,2025-01-19,40,Tienda Física,Efectivo
+C151,2025-01-19,100,Tienda Física,Tarjeta Crédito
+C116,2025-01-19,180,Tienda Física,Tarjeta Crédito
+C016,2025-01-19,180,Online,Tarjeta Débito
+C086,2025-01-19,480,Tienda Física,Tarjeta Crédito
+C167,2025-01-19,140,Online,Efectivo
+C151,2025-01-19,200,Tienda Física,Tarjeta Crédito
+C103,2025-01-20,160,Online,Efectivo
+C299,2025-01-20,180,App,Tarjeta Crédito
+C286,2025-01-20,120,App,Efectivo
+C239,2025-01-20,100,Online,Efectivo
+C196,2025-01-20,450,Tienda Física,Tarjeta Crédito
+C265,2025-01-20,180,Tienda Física,Efectivo
+C234,2025-01-20,350,Online,Tarjeta Débito
+C054,2025-01-20,480,Tienda Física,Tarjeta Crédito
+C157,2025-01-21,500,Tienda Física,Tarjeta Crédito
+C082,2025-01-21,40,Tienda Física,Efectivo
+C009,2025-01-21,500,Tienda Física,Tarjeta Crédito
+C198,2025-01-21,120,Online,Tarjeta Crédito
+C282,2025-01-21,350,Tienda Física,Tarjeta Crédito
+C040,2025-01-21,480,Tienda Física,Tarjeta Crédito
+C140,2025-01-21,450,Tienda Física,Tarjeta Crédito
+C118,2025-01-21,140,App,Tarjeta Crédito
+C128,2025-01-21,10,Tienda Física,Efectivo
+C272,2025-01-21,400,Tienda Física,Tarjeta Crédito
+C207,2025-01-21,60,Online,Tarjeta Crédito
+C190,2025-01-22,350,Online,Tarjeta Crédito
+C139,2025-01-22,30,Tienda Física,Efectivo
+C154,2025-01-22,100,Online,Tarjeta Crédito
+C119,2025-01-22,180,Online,Tarjeta Crédito
+C130,2025-01-22,160,Online,Efectivo
+C213,2025-01-22,180,Tienda Física,Tarjeta Crédito
+C203,2025-01-22,500,Tienda Física,Tarjeta Crédito
+C112,2025-01-22,300,Tienda Física,Tarjeta Débito
+C015,2025-01-22,480,Tienda Física,Tarjeta Crédito
+C268,2025-01-22,10,Tienda Física,Efectivo
+C046,2025-01-22,100,Online,Tarjeta Crédito
+C073,2025-01-22,300,Online,Tarjeta Débito
+C250,2025-01-22,120,Online,Tarjeta Crédito
+C258,2025-01-22,180,App,Efectivo
+C058,2025-01-23,450,Tienda Física,Tarjeta Crédito
+C089,2025-01-23,160,Online,Tarjeta Crédito
+C145,2025-01-23,30,Tienda Física,Efectivo
+C205,2025-01-23,60,Online,Tarjeta Crédito
+C104,2025-01-23,350,Online,Tarjeta Débito
+C046,2025-01-23,180,App,Efectivo
+C013,2025-01-23,140,Online,Efectivo
+C031,2025-01-23,100,Online,Tarjeta Débito
+C013,2025-01-23,120,Tienda Física,Tarjeta Débito
+C120,2025-01-23,160,App,Tarjeta Débito
+C171,2025-01-23,120,Online,Tarjeta Crédito
+C147,2025-01-23,200,Tienda Física,Tarjeta Crédito
+C200,2025-01-23,50,Tienda Física,Efectivo
+C290,2025-01-24,350,Online,Tarjeta Crédito
+C187,2025-01-24,160,App,Tarjeta Débito
+C052,2025-01-24,200,Online,Tarjeta Débito
+C164,2025-01-24,30,Tienda Física,Efectivo
+C181,2025-01-24,450,Tienda Física,Tarjeta Crédito
+C281,2025-01-24,480,Tienda Física,Tarjeta Crédito
+C099,2025-01-24,500,Tienda Física,Tarjeta Crédito
+C041,2025-01-24,350,Online,Tarjeta Crédito
+C139,2025-01-24,20,Tienda Física,Efectivo
+C287,2025-01-24,480,Tienda Física,Tarjeta Crédito
+C214,2025-01-24,140,App,Efectivo
+C200,2025-01-24,60,App,Tarjeta Débito
+C222,2025-01-24,200,Tienda Física,Tarjeta Crédito
+C243,2025-01-24,100,App,Tarjeta Crédito
+C068,2025-01-24,30,Tienda Física,Efectivo
+C113,2025-01-24,160,App,Efectivo
+C028,2025-01-25,350,Online,Tarjeta Débito
+C204,2025-01-25,160,App,Tarjeta Débito
+C083,2025-01-25,200,Online,Tarjeta Crédito
+C209,2025-01-25,50,Tienda Física,Efectivo
+C087,2025-01-25,450,Tienda Física,Tarjeta Crédito
+C177,2025-01-25,160,Online,Efectivo
+C179,2025-01-25,140,Online,Efectivo
+C131,2025-01-25,180,Online,Tarjeta Débito
+C219,2025-01-25,140,Online,Tarjeta Débito
+C167,2025-01-25,140,Tienda Física,Tarjeta Crédito
+C136,2025-01-26,300,Online,Tarjeta Crédito
+C236,2025-01-26,480,Tienda Física,Tarjeta Crédito
+C009,2025-01-26,450,Tienda Física,Tarjeta Crédito
+C094,2025-01-26,450,Tienda Física,Tarjeta Crédito
+C289,2025-01-26,200,Online,Tarjeta Crédito
+C123,2025-01-26,200,Online,Tarjeta Crédito
+C231,2025-01-27,200,Tienda Física,Tarjeta Débito
+C009,2025-01-27,350,Online,Tarjeta Crédito
+C086,2025-01-27,350,Online,Tarjeta Débito
+C130,2025-01-27,120,Tienda Física,Tarjeta Crédito
+C067,2025-01-27,400,Tienda Física,Tarjeta Crédito
+C033,2025-01-28,50,Tienda Física,Efectivo
+C170,2025-01-28,40,Tienda Física,Efectivo
+C012,2025-01-28,60,App,Tarjeta Débito
+C137,2025-01-28,500,Tienda Física,Tarjeta Crédito
+C286,2025-01-28,140,Tienda Física,Tarjeta Débito
+C038,2025-01-28,120,Tienda Física,Tarjeta Crédito
+C058,2025-01-28,300,Online,Tarjeta Débito
+C003,2025-01-28,60,Online,Tarjeta Crédito
+C007,2025-01-28,480,Tienda Física,Tarjeta Crédito
+C052,2025-01-28,100,App,Tarjeta Crédito
+C297,2025-01-28,480,Tienda Física,Tarjeta Crédito
+C033,2025-01-28,60,App,Tarjeta Crédito
+C080,2025-01-28,160,Tienda Física,Efectivo
+C272,2025-01-28,300,Online,Tarjeta Crédito
+C141,2025-01-28,120,App,Tarjeta Crédito
+C225,2025-01-29,200,Tienda Física,Tarjeta Crédito
+C204,2025-01-29,200,Online,Tarjeta Débito
+C099,2025-01-29,450,Tienda Física,Tarjeta Crédito
+C229,2025-01-29,450,Tienda Física,Tarjeta Crédito
+C023,2025-01-29,160,Online,Efectivo
+C283,2025-01-29,450,Tienda Física,Tarjeta Crédito
+C139,2025-01-29,30,Tienda Física,Efectivo
+C222,2025-01-29,120,Tienda Física,Tarjeta Crédito
+C188,2025-01-29,450,Tienda Física,Tarjeta Crédito
+C176,2025-01-30,180,Tienda Física,Tarjeta Débito
+C280,2025-01-30,400,Tienda Física,Tarjeta Crédito
+C079,2025-01-30,30,Tienda Física,Efectivo
+C136,2025-01-30,350,Tienda Física,Tarjeta Crédito
+C124,2025-01-30,500,Tienda Física,Tarjeta Crédito
+C082,2025-01-30,30,Tienda Física,Efectivo
+C015,2025-01-30,450,Tienda Física,Tarjeta Crédito
+C292,2025-01-30,50,Tienda Física,Efectivo
+C157,2025-01-30,350,Tienda Física,Tarjeta Crédito
+C146,2025-01-30,20,Tienda Física,Efectivo
+C065,2025-01-31,160,Online,Efectivo
+C225,2025-01-31,180,Tienda Física,Efectivo
+C228,2025-01-31,140,App,Efectivo
+C253,2025-01-31,180,App,Tarjeta Débito
+C235,2025-01-31,140,App,Tarjeta Débito
+C240,2025-01-31,160,Online,Tarjeta Débito
+C155,2025-01-31,180,Tienda Física,Tarjeta Crédito
+C023,2025-01-31,160,App,Efectivo
+C186,2025-02-01,120,Online,Efectivo
+C153,2025-02-01,480,Tienda Física,Tarjeta Crédito
+C072,2025-02-01,500,Tienda Física,Tarjeta Crédito
+C100,2025-02-01,120,Tienda Física,Efectivo
+C085,2025-02-01,480,Tienda Física,Tarjeta Crédito
+C062,2025-02-01,200,Online,Tarjeta Débito
+C175,2025-02-01,450,Tienda Física,Tarjeta Crédito
+C247,2025-02-01,120,Tienda Física,Tarjeta Débito
+C298,2025-02-01,400,Tienda Física,Tarjeta Crédito
+C006,2025-02-01,160,App,Tarjeta Crédito
+C165,2025-02-01,160,App,Tarjeta Débito
+C185,2025-02-01,10,Tienda Física,Efectivo
+C074,2025-02-01,40,Tienda Física,Efectivo
+C029,2025-02-01,60,Online,Efectivo
+C219,2025-02-01,100,App,Tarjeta Débito
+C088,2025-02-02,450,Tienda Física,Tarjeta Crédito
+C280,2025-02-02,350,Tienda Física,Tarjeta Crédito
+C048,2025-02-02,450,Tienda Física,Tarjeta Crédito
+C062,2025-02-02,180,Tienda Física,Tarjeta Débito
+C060,2025-02-02,400,Tienda Física,Tarjeta Crédito
+C216,2025-02-02,180,Tienda Física,Tarjeta Débito
+C221,2025-02-02,180,App,Tarjeta Débito
+C131,2025-02-02,180,App,Tarjeta Crédito
+C242,2025-02-02,140,Online,Efectivo
+C235,2025-02-02,120,Online,Efectivo
+C049,2025-02-03,400,Tienda Física,Tarjeta Crédito
+C263,2025-02-03,50,Tienda Física,Efectivo
+C023,2025-02-03,160,App,Tarjeta Débito
+C022,2025-02-03,10,Tienda Física,Efectivo
+C138,2025-02-03,450,Tienda Física,Tarjeta Crédito
+C258,2025-02-03,160,Online,Tarjeta Débito
+C129,2025-02-03,200,Online,Tarjeta Débito
+C146,2025-02-03,20,Tienda Física,Efectivo
+C081,2025-02-03,10,Tienda Física,Efectivo
+C217,2025-02-03,20,Tienda Física,Efectivo
+C238,2025-02-03,300,Online,Tarjeta Crédito
+C102,2025-02-03,400,Tienda Física,Tarjeta Crédito
+C062,2025-02-03,160,Online,Tarjeta Crédito
+C130,2025-02-04,160,Tienda Física,Tarjeta Débito
+C119,2025-02-04,160,Tienda Física,Efectivo
+C244,2025-02-04,300,Online,Tarjeta Crédito
+C144,2025-02-04,350,Tienda Física,Tarjeta Crédito
+C299,2025-02-04,140,App,Efectivo
+C201,2025-02-04,500,Tienda Física,Tarjeta Crédito
+C218,2025-02-04,10,Tienda Física,Efectivo
+C065,2025-02-04,100,App,Tarjeta Débito
+C056,2025-02-04,100,Online,Tarjeta Débito
+C045,2025-02-04,100,App,Efectivo
+C249,2025-02-05,480,Tienda Física,Tarjeta Crédito
+C263,2025-02-05,40,Tienda Física,Efectivo
+C090,2025-02-05,160,Online,Tarjeta Débito
+C059,2025-02-06,400,Tienda Física,Tarjeta Crédito
+C199,2025-02-06,500,Tienda Física,Tarjeta Crédito
+C248,2025-02-06,450,Tienda Física,Tarjeta Crédito
+C052,2025-02-06,100,Tienda Física,Tarjeta Débito
+C006,2025-02-06,180,Tienda Física,Tarjeta Crédito
+C274,2025-02-06,140,App,Tarjeta Crédito
+C214,2025-02-06,160,Online,Tarjeta Débito
+C166,2025-02-06,500,Tienda Física,Tarjeta Crédito
+C231,2025-02-06,180,Online,Efectivo
+C065,2025-02-06,180,Online,Tarjeta Crédito
+C040,2025-02-06,500,Tienda Física,Tarjeta Crédito
+C173,2025-02-06,480,Tienda Física,Tarjeta Crédito
+C116,2025-02-07,200,Tienda Física,Tarjeta Débito
+C114,2025-02-07,400,Tienda Física,Tarjeta Crédito
+C186,2025-02-07,140,Tienda Física,Efectivo
+C229,2025-02-07,500,Tienda Física,Tarjeta Crédito
+C010,2025-02-07,20,Tienda Física,Efectivo
+C084,2025-02-07,20,Tienda Física,Efectivo
+C161,2025-02-07,200,Tienda Física,Tarjeta Débito
+C219,2025-02-07,100,App,Tarjeta Crédito
+C054,2025-02-07,450,Tienda Física,Tarjeta Crédito
+C047,2025-02-07,480,Tienda Física,Tarjeta Crédito
+C079,2025-02-07,20,Tienda Física,Efectivo
+C147,2025-02-08,200,Tienda Física,Tarjeta Crédito
+C069,2025-02-08,500,Tienda Física,Tarjeta Crédito
+C186,2025-02-08,100,App,Tarjeta Crédito
+C244,2025-02-08,300,Online,Tarjeta Débito
+C255,2025-02-08,300,Online,Tarjeta Débito
+C187,2025-02-09,180,Tienda Física,Tarjeta Crédito
+C290,2025-02-09,450,Tienda Física,Tarjeta Crédito
+C087,2025-02-09,480,Tienda Física,Tarjeta Crédito
+C117,2025-02-09,50,Tienda Física,Efectivo
+C127,2025-02-09,200,Tienda Física,Tarjeta Crédito
+C197,2025-02-09,140,Online,Tarjeta Crédito
+C181,2025-02-10,450,Tienda Física,Tarjeta Crédito
+C169,2025-02-10,480,Tienda Física,Tarjeta Crédito
+C008,2025-02-10,450,Tienda Física,Tarjeta Crédito
+C032,2025-02-10,140,Online,Tarjeta Crédito
+C177,2025-02-10,120,App,Tarjeta Débito
+C088,2025-02-10,450,Tienda Física,Tarjeta Crédito
+C235,2025-02-10,120,Tienda Física,Tarjeta Crédito
+C063,2025-02-10,100,App,Tarjeta Débito
+C015,2025-02-10,300,Tienda Física,Tarjeta Crédito
+C203,2025-02-10,450,Tienda Física,Tarjeta Crédito
+C228,2025-02-10,180,App,Tarjeta Crédito
+C278,2025-02-11,30,Tienda Física,Efectivo
+C286,2025-02-11,120,App,Efectivo
+C156,2025-02-11,140,App,Tarjeta Débito
+C172,2025-02-11,300,Online,Tarjeta Débito
+C136,2025-02-11,480,Tienda Física,Tarjeta Crédito
+C183,2025-02-11,480,Tienda Física,Tarjeta Crédito
+C242,2025-02-11,100,App,Tarjeta Crédito
+C039,2025-02-11,300,Online,Tarjeta Crédito
+C050,2025-02-11,200,Tienda Física,Tarjeta Crédito
+C209,2025-02-11,50,Tienda Física,Efectivo
+C095,2025-02-11,50,Tienda Física,Efectivo
+C230,2025-02-11,350,Tienda Física,Tarjeta Débito
+C186,2025-02-11,100,Online,Efectivo
+C155,2025-02-12,180,Tienda Física,Tarjeta Débito
+C262,2025-02-12,100,Tienda Física,Tarjeta Débito
+C157,2025-02-12,400,Tienda Física,Tarjeta Crédito
+C273,2025-02-12,400,Tienda Física,Tarjeta Crédito
+C009,2025-02-12,300,Online,Tarjeta Débito
+C020,2025-02-12,160,Tienda Física,Tarjeta Crédito
+C266,2025-02-12,400,Tienda Física,Tarjeta Crédito
+C048,2025-02-12,450,Tienda Física,Tarjeta Crédito
+C070,2025-02-13,160,Online,Efectivo
+C142,2025-02-13,400,Tienda Física,Tarjeta Crédito
+C235,2025-02-13,100,App,Tarjeta Débito
+C121,2025-02-13,300,Tienda Física,Tarjeta Débito
+C162,2025-02-13,160,Online,Efectivo
+C159,2025-02-13,40,Tienda Física,Efectivo
+C139,2025-02-13,10,Tienda Física,Efectivo
+C235,2025-02-13,100,Tienda Física,Tarjeta Débito
+C058,2025-02-14,350,Tienda Física,Tarjeta Crédito
+C109,2025-02-14,350,Tienda Física,Tarjeta Crédito
+C237,2025-02-14,100,Tienda Física,Efectivo
+C206,2025-02-14,180,Tienda Física,Efectivo
+C043,2025-02-14,500,Tienda Física,Tarjeta Crédito
+C189,2025-02-14,100,Tienda Física,Tarjeta Débito
+C193,2025-02-14,200,Tienda Física,Tarjeta Crédito
+C213,2025-02-14,120,App,Efectivo
+C193,2025-02-15,160,Tienda Física,Tarjeta Débito
+C007,2025-02-15,500,Tienda Física,Tarjeta Crédito
+C161,2025-02-15,160,Online,Efectivo
+C192,2025-02-15,500,Tienda Física,Tarjeta Crédito
+C142,2025-02-15,480,Tienda Física,Tarjeta Crédito
+C289,2025-02-15,200,Online,Tarjeta Crédito
+C013,2025-02-15,120,Tienda Física,Tarjeta Crédito
+C161,2025-02-15,160,Online,Efectivo
+C210,2025-02-15,300,Tienda Física,Tarjeta Débito
+C117,2025-02-16,50,Tienda Física,Efectivo
+C133,2025-02-16,60,App,Tarjeta Débito
+C127,2025-02-16,120,Online,Tarjeta Débito
+C085,2025-02-16,350,Tienda Física,Tarjeta Crédito
+C300,2025-02-16,200,Online,Tarjeta Crédito
+C015,2025-02-16,400,Tienda Física,Tarjeta Crédito
+C155,2025-02-16,200,Online,Tarjeta Crédito
+C253,2025-02-16,200,Online,Tarjeta Crédito
+C125,2025-02-16,350,Tienda Física,Tarjeta Crédito
+C280,2025-02-16,300,Tienda Física,Tarjeta Crédito
+C273,2025-02-16,300,Tienda Física,Tarjeta Crédito
+C214,2025-02-17,100,App,Tarjeta Crédito
+C277,2025-02-17,120,Online,Tarjeta Débito
+C059,2025-02-17,400,Tienda Física,Tarjeta Crédito
+C162,2025-02-17,160,Tienda Física,Tarjeta Crédito
+C025,2025-02-17,120,Online,Tarjeta Crédito
+C265,2025-02-17,180,App,Efectivo
+C269,2025-02-17,450,Tienda Física,Tarjeta Crédito
+C291,2025-02-17,480,Tienda Física,Tarjeta Crédito
+C040,2025-02-17,480,Tienda Física,Tarjeta Crédito
+C056,2025-02-17,100,Online,Tarjeta Débito
+C117,2025-02-17,20,Tienda Física,Efectivo
+C096,2025-02-17,180,App,Tarjeta Crédito
+C140,2025-02-17,480,Tienda Física,Tarjeta Crédito
+C132,2025-02-17,500,Tienda Física,Tarjeta Crédito
+C232,2025-02-18,50,Tienda Física,Efectivo
+C219,2025-02-18,140,Online,Tarjeta Débito
+C300,2025-02-18,200,Online,Tarjeta Débito
+C174,2025-02-18,400,Tienda Física,Tarjeta Crédito
+C026,2025-02-18,120,Tienda Física,Tarjeta Débito
+C013,2025-02-18,100,Online,Tarjeta Crédito
+C013,2025-02-18,140,App,Tarjeta Débito
+C210,2025-02-18,450,Tienda Física,Tarjeta Crédito
+C298,2025-02-18,300,Online,Tarjeta Débito
+C147,2025-02-18,200,Online,Tarjeta Crédito
+C016,2025-02-19,160,Tienda Física,Tarjeta Crédito
+C198,2025-02-19,100,App,Tarjeta Crédito
+C277,2025-02-19,180,Tienda Física,Tarjeta Crédito
+C037,2025-02-19,200,Online,Tarjeta Crédito
+C217,2025-02-19,30,Tienda Física,Efectivo
+C200,2025-02-19,40,Tienda Física,Efectivo
+C187,2025-02-19,160,App,Tarjeta Débito
+C112,2025-02-19,300,Online,Tarjeta Crédito
+C269,2025-02-20,480,Tienda Física,Tarjeta Crédito
+C023,2025-02-20,200,Online,Tarjeta Crédito
+C123,2025-02-20,200,Tienda Física,Tarjeta Débito
+C260,2025-02-20,120,App,Efectivo
+C107,2025-02-20,10,Tienda Física,Efectivo
+C051,2025-02-20,180,Tienda Física,Tarjeta Crédito
+C203,2025-02-20,500,Tienda Física,Tarjeta Crédito
+C032,2025-02-20,180,Online,Tarjeta Crédito
+C204,2025-02-20,100,App,Tarjeta Crédito
+C073,2025-02-21,480,Tienda Física,Tarjeta Crédito
+C039,2025-02-21,350,Online,Tarjeta Crédito
+C262,2025-02-21,100,Tienda Física,Tarjeta Crédito
+C106,2025-02-21,300,Tienda Física,Tarjeta Débito
+C162,2025-02-21,180,Online,Tarjeta Débito
+C097,2025-02-21,300,Tienda Física,Tarjeta Débito
+C148,2025-02-21,100,App,Tarjeta Crédito
+C201,2025-02-22,300,Online,Tarjeta Crédito
+C182,2025-02-22,200,Online,Tarjeta Crédito
+C001,2025-02-22,300,Online,Tarjeta Débito
+C242,2025-02-22,120,Tienda Física,Tarjeta Débito
+C281,2025-02-22,450,Tienda Física,Tarjeta Crédito
+C135,2025-02-22,40,Tienda Física,Efectivo
+C037,2025-02-22,180,Online,Tarjeta Crédito
+C206,2025-02-22,200,Tienda Física,Tarjeta Crédito
+C110,2025-02-22,10,Tienda Física,Efectivo
+C222,2025-02-22,120,Tienda Física,Efectivo
+C193,2025-02-23,180,Online,Efectivo
+C025,2025-02-23,140,Online,Tarjeta Crédito
+C027,2025-02-23,180,Tienda Física,Efectivo
+C209,2025-02-23,30,Tienda Física,Efectivo
+C180,2025-02-23,30,Tienda Física,Efectivo
+C245,2025-02-23,200,Tienda Física,Tarjeta Crédito
+C140,2025-02-23,500,Tienda Física,Tarjeta Crédito
+C005,2025-02-23,140,App,Tarjeta Débito
+C094,2025-02-23,500,Tienda Física,Tarjeta Crédito
+C147,2025-02-23,160,App,Tarjeta Débito
+C061,2025-02-23,480,Tienda Física,Tarjeta Crédito
+C038,2025-02-23,160,Online,Tarjeta Débito
+C133,2025-02-23,50,Tienda Física,Efectivo
+C292,2025-02-23,10,Tienda Física,Efectivo
+C146,2025-02-23,20,Tienda Física,Efectivo
+C126,2025-02-23,100,Online,Tarjeta Crédito
+C193,2025-02-24,200,Online,Tarjeta Crédito
+C230,2025-02-24,480,Tienda Física,Tarjeta Crédito
+C011,2025-02-24,140,App,Efectivo
+C175,2025-02-24,480,Tienda Física,Tarjeta Crédito
+C295,2025-02-24,160,App,Tarjeta Crédito
+C049,2025-02-24,480,Tienda Física,Tarjeta Crédito
+C225,2025-02-24,160,App,Tarjeta Crédito
+C222,2025-02-24,140,Online,Efectivo
+C282,2025-02-24,300,Online,Tarjeta Débito
+C191,2025-02-24,50,Tienda Física,Efectivo
+C294,2025-02-24,140,Online,Tarjeta Débito
+C177,2025-02-24,180,App,Efectivo
+C255,2025-02-24,300,Tienda Física,Tarjeta Crédito
+C160,2025-02-24,400,Tienda Física,Tarjeta Crédito
+C157,2025-02-24,400,Tienda Física,Tarjeta Crédito
+C083,2025-02-24,180,Tienda Física,Efectivo
+C187,2025-02-24,180,App,Tarjeta Débito
+C021,2025-02-25,200,Online,Tarjeta Débito
+C284,2025-02-25,120,Online,Efectivo
+C215,2025-02-25,30,Tienda Física,Efectivo
+C252,2025-02-25,480,Tienda Física,Tarjeta Crédito
+C150,2025-02-25,300,Tienda Física,Tarjeta Crédito
+C293,2025-02-25,200,Tienda Física,Tarjeta Crédito
+C253,2025-02-25,200,Online,Tarjeta Crédito
+C272,2025-02-25,400,Tienda Física,Tarjeta Crédito
+C146,2025-02-25,40,Tienda Física,Efectivo
+C246,2025-02-25,300,Tienda Física,Tarjeta Débito
+C075,2025-02-25,450,Tienda Física,Tarjeta Crédito
+C224,2025-02-25,500,Tienda Física,Tarjeta Crédito
+C131,2025-02-25,180,Online,Efectivo
+C102,2025-02-25,350,Tienda Física,Tarjeta Débito
+C292,2025-02-26,20,Tienda Física,Efectivo
+C086,2025-02-26,400,Tienda Física,Tarjeta Crédito
+C052,2025-02-26,140,Tienda Física,Tarjeta Débito
+C064,2025-02-26,200,Online,Tarjeta Débito
+C191,2025-02-26,10,Tienda Física,Efectivo
+C135,2025-02-26,30,Tienda Física,Efectivo
+C222,2025-02-26,180,Online,Tarjeta Crédito
+C215,2025-02-26,10,Tienda Física,Efectivo
+C032,2025-02-26,180,Online,Efectivo
+C011,2025-02-27,200,Online,Tarjeta Débito
+C137,2025-02-27,500,Tienda Física,Tarjeta Crédito
+C274,2025-02-27,100,Online,Efectivo
+C123,2025-02-27,180,App,Tarjeta Débito
+C286,2025-02-27,100,App,Tarjeta Débito
+C061,2025-02-27,300,Online,Tarjeta Débito
+C044,2025-02-27,200,Online,Tarjeta Crédito
+C162,2025-02-27,160,Online,Tarjeta Débito
+C107,2025-02-28,30,Tienda Física,Efectivo
+C300,2025-02-28,160,Tienda Física,Tarjeta Crédito
+C279,2025-02-28,200,Tienda Física,Tarjeta Crédito
+C108,2025-02-28,480,Tienda Física,Tarjeta Crédito
+C093,2025-02-28,140,Online,Tarjeta Débito
+C107,2025-02-28,10,Tienda Física,Efectivo
+C234,2025-02-28,300,Online,Tarjeta Débito
+C257,2025-02-28,500,Tienda Física,Tarjeta Crédito
+C205,2025-02-28,60,Online,Tarjeta Débito
+C256,2025-02-28,160,Tienda Física,Efectivo
+C196,2025-03-01,450,Tienda Física,Tarjeta Crédito
+C130,2025-03-01,100,Tienda Física,Tarjeta Débito
+C267,2025-03-01,30,Tienda Física,Efectivo
+C017,2025-03-01,20,Tienda Física,Efectivo
+C056,2025-03-01,100,Online,Efectivo
+C080,2025-03-01,200,Tienda Física,Tarjeta Débito
+C151,2025-03-01,160,Online,Tarjeta Crédito
+C105,2025-03-01,200,Online,Tarjeta Crédito
+C058,2025-03-01,300,Tienda Física,Tarjeta Crédito
+C282,2025-03-02,400,Tienda Física,Tarjeta Crédito
+C049,2025-03-02,350,Tienda Física,Tarjeta Crédito
+C115,2025-03-02,180,App,Tarjeta Débito
+C250,2025-03-02,200,Tienda Física,Tarjeta Débito
+C205,2025-03-02,10,Tienda Física,Efectivo
+C185,2025-03-02,40,Tienda Física,Efectivo
+C033,2025-03-02,60,Online,Tarjeta Débito
+C286,2025-03-02,140,Online,Efectivo
+C292,2025-03-02,40,Tienda Física,Efectivo
+C243,2025-03-02,180,Tienda Física,Tarjeta Débito
+C240,2025-03-02,200,Tienda Física,Tarjeta Crédito
+C121,2025-03-02,350,Online,Tarjeta Crédito
+C272,2025-03-02,400,Tienda Física,Tarjeta Crédito
+C161,2025-03-03,120,App,Tarjeta Débito
+C297,2025-03-03,500,Tienda Física,Tarjeta Crédito
+C183,2025-03-03,350,Tienda Física,Tarjeta Crédito
+C028,2025-03-03,350,Online,Tarjeta Crédito
+C180,2025-03-03,50,Tienda Física,Efectivo
+C158,2025-03-03,300,Online,Tarjeta Crédito
+C167,2025-03-04,100,Online,Tarjeta Crédito
+C199,2025-03-04,450,Tienda Física,Tarjeta Crédito
+C156,2025-03-04,120,Online,Efectivo
+C215,2025-03-04,30,Tienda Física,Efectivo
+C109,2025-03-04,500,Tienda Física,Tarjeta Crédito
+C293,2025-03-04,120,Online,Tarjeta Crédito
+C179,2025-03-04,120,Online,Tarjeta Crédito
+C111,2025-03-04,500,Tienda Física,Tarjeta Crédito
+C096,2025-03-04,180,Tienda Física,Tarjeta Crédito
+C103,2025-03-05,140,Online,Tarjeta Crédito
+C038,2025-03-05,200,Online,Tarjeta Crédito
+C014,2025-03-05,160,Tienda Física,Tarjeta Débito
+C008,2025-03-05,450,Tienda Física,Tarjeta Crédito
+C237,2025-03-05,140,Online,Efectivo
+C174,2025-03-05,400,Tienda Física,Tarjeta Crédito
+C235,2025-03-05,140,App,Tarjeta Débito
+C210,2025-03-05,480,Tienda Física,Tarjeta Crédito
+C011,2025-03-05,140,Online,Tarjeta Débito
+C150,2025-03-05,350,Tienda Física,Tarjeta Crédito
+C062,2025-03-05,180,Online,Efectivo
+C164,2025-03-05,30,Tienda Física,Efectivo
+C132,2025-03-06,500,Tienda Física,Tarjeta Crédito
+C208,2025-03-06,300,Online,Tarjeta Débito
+C039,2025-03-06,350,Tienda Física,Tarjeta Débito
+C250,2025-03-06,120,App,Tarjeta Crédito
+C131,2025-03-06,160,Online,Tarjeta Crédito
+C179,2025-03-06,120,App,Efectivo
+C293,2025-03-06,120,App,Tarjeta Débito
+C263,2025-03-06,60,Tienda Física,Tarjeta Débito
+C072,2025-03-06,400,Tienda Física,Tarjeta Crédito
+C202,2025-03-06,200,Online,Tarjeta Crédito
+C198,2025-03-06,100,Tienda Física,Efectivo
+C046,2025-03-07,180,App,Tarjeta Crédito
+C207,2025-03-07,40,Tienda Física,Efectivo
+C037,2025-03-07,200,Online,Tarjeta Crédito
+C199,2025-03-07,450,Tienda Física,Tarjeta Crédito
+C113,2025-03-07,200,Tienda Física,Tarjeta Crédito
+C253,2025-03-07,200,Online,Tarjeta Débito
+C031,2025-03-07,200,Online,Tarjeta Crédito
+C290,2025-03-07,300,Online,Tarjeta Crédito
+C193,2025-03-07,160,Online,Tarjeta Crédito
+C178,2025-03-08,350,Tienda Física,Tarjeta Débito
+C004,2025-03-08,20,Tienda Física,Efectivo
+C050,2025-03-08,180,Online,Tarjeta Débito
+C112,2025-03-08,300,Online,Tarjeta Débito
+C248,2025-03-09,300,Tienda Física,Tarjeta Crédito
+C197,2025-03-09,100,Tienda Física,Tarjeta Crédito
+C283,2025-03-09,480,Tienda Física,Tarjeta Crédito
+C273,2025-03-09,400,Tienda Física,Tarjeta Crédito
+C146,2025-03-09,60,App,Tarjeta Débito
+C016,2025-03-09,180,App,Efectivo
+C245,2025-03-09,200,Tienda Física,Tarjeta Crédito
+C286,2025-03-09,100,Tienda Física,Efectivo
+C298,2025-03-09,350,Tienda Física,Tarjeta Débito
+C166,2025-03-09,500,Tienda Física,Tarjeta Crédito
+C098,2025-03-10,450,Tienda Física,Tarjeta Crédito
+C244,2025-03-10,300,Online,Tarjeta Crédito
+C099,2025-03-10,500,Tienda Física,Tarjeta Crédito
+C284,2025-03-10,180,Tienda Física,Efectivo
+C255,2025-03-10,300,Tienda Física,Tarjeta Crédito
+C015,2025-03-10,480,Tienda Física,Tarjeta Crédito
+C107,2025-03-10,10,Tienda Física,Efectivo
+C159,2025-03-11,40,Tienda Física,Efectivo
+C080,2025-03-11,120,Online,Tarjeta Crédito
+C270,2025-03-11,350,Online,Tarjeta Débito
+C063,2025-03-11,140,App,Efectivo
+C019,2025-03-11,100,Tienda Física,Efectivo
+C180,2025-03-11,60,Online,Tarjeta Débito
+C231,2025-03-11,180,Online,Tarjeta Crédito
+C291,2025-03-11,500,Tienda Física,Tarjeta Crédito
+C199,2025-03-11,500,Tienda Física,Tarjeta Crédito
+C129,2025-03-12,140,Tienda Física,Tarjeta Débito
+C026,2025-03-12,100,App,Tarjeta Débito
+C178,2025-03-12,400,Tienda Física,Tarjeta Crédito
+C209,2025-03-12,40,Tienda Física,Efectivo
+C202,2025-03-12,160,Tienda Física,Tarjeta Débito
+C166,2025-03-12,400,Tienda Física,Tarjeta Crédito
+C191,2025-03-12,10,Tienda Física,Efectivo
+C134,2025-03-12,400,Tienda Física,Tarjeta Crédito
+C018,2025-03-12,180,Tienda Física,Tarjeta Débito
+C108,2025-03-13,480,Tienda Física,Tarjeta Crédito
+C258,2025-03-13,160,App,Tarjeta Débito
+C041,2025-03-13,450,Tienda Física,Tarjeta Crédito
+C143,2025-03-13,50,Tienda Física,Efectivo
+C091,2025-03-13,100,App,Tarjeta Crédito
+C244,2025-03-13,500,Tienda Física,Tarjeta Crédito
+C195,2025-03-13,200,Tienda Física,Tarjeta Débito
+C281,2025-03-13,480,Tienda Física,Tarjeta Crédito
+C287,2025-03-14,480,Tienda Física,Tarjeta Crédito
+C119,2025-03-14,180,Online,Efectivo
+C114,2025-03-14,350,Tienda Física,Tarjeta Crédito
+C212,2025-03-14,200,Tienda Física,Tarjeta Débito
+C212,2025-03-14,160,Tienda Física,Efectivo
+C135,2025-03-14,50,Tienda Física,Efectivo
+C076,2025-03-14,160,Online,Efectivo
+C071,2025-03-14,450,Tienda Física,Tarjeta Crédito
+C178,2025-03-15,350,Online,Tarjeta Débito
+C146,2025-03-15,30,Tienda Física,Efectivo
+C163,2025-03-15,350,Tienda Física,Tarjeta Débito
+C200,2025-03-15,50,Tienda Física,Efectivo
+C053,2025-03-15,160,Online,Tarjeta Crédito
+C100,2025-03-15,120,Tienda Física,Tarjeta Débito
+C149,2025-03-15,160,App,Tarjeta Crédito
+C179,2025-03-15,120,App,Efectivo
+C265,2025-03-16,100,Tienda Física,Tarjeta Crédito
+C029,2025-03-16,20,Tienda Física,Efectivo
+C164,2025-03-16,50,Tienda Física,Efectivo
+C164,2025-03-16,30,Tienda Física,Efectivo
+C049,2025-03-16,480,Tienda Física,Tarjeta Crédito
+C239,2025-03-16,140,Tienda Física,Efectivo
+C189,2025-03-16,140,Tienda Física,Tarjeta Débito
+C040,2025-03-16,450,Tienda Física,Tarjeta Crédito
+C207,2025-03-16,10,Tienda Física,Efectivo
+C163,2025-03-16,350,Online,Tarjeta Débito
+C044,2025-03-16,140,Online,Tarjeta Crédito
+C112,2025-03-16,300,Online,Tarjeta Crédito
+C164,2025-03-16,60,Online,Tarjeta Débito
+C248,2025-03-16,500,Tienda Física,Tarjeta Crédito
+C267,2025-03-17,10,Tienda Física,Efectivo
+C204,2025-03-17,200,Tienda Física,Tarjeta Débito
+C289,2025-03-17,100,Tienda Física,Tarjeta Débito
+C223,2025-03-17,480,Tienda Física,Tarjeta Crédito
+C154,2025-03-17,200,Tienda Física,Tarjeta Crédito
+C143,2025-03-17,60,Online,Tarjeta Débito
+C108,2025-03-17,450,Tienda Física,Tarjeta Crédito
+C208,2025-03-17,450,Tienda Física,Tarjeta Crédito
+C014,2025-03-17,120,App,Tarjeta Crédito
+C150,2025-03-17,350,Tienda Física,Tarjeta Crédito
+C206,2025-03-17,140,App,Tarjeta Débito
+C250,2025-03-17,100,Online,Tarjeta Débito
+C072,2025-03-17,450,Tienda Física,Tarjeta Crédito
+C188,2025-03-17,350,Tienda Física,Tarjeta Crédito
+C041,2025-03-17,400,Tienda Física,Tarjeta Crédito
+C173,2025-03-17,480,Tienda Física,Tarjeta Crédito
+C030,2025-03-18,160,Online,Efectivo
+C033,2025-03-18,50,Tienda Física,Efectivo
+C164,2025-03-18,60,App,Tarjeta Débito
+C035,2025-03-18,300,Tienda Física,Tarjeta Crédito
+C280,2025-03-18,350,Online,Tarjeta Crédito
+C020,2025-03-19,200,Online,Tarjeta Crédito
+C162,2025-03-19,200,Tienda Física,Tarjeta Crédito
+C034,2025-03-19,300,Online,Tarjeta Débito
+C095,2025-03-19,60,App,Tarjeta Crédito
+C035,2025-03-19,480,Tienda Física,Tarjeta Crédito
+C155,2025-03-19,160,App,Tarjeta Débito
+C126,2025-03-19,140,Online,Efectivo
+C208,2025-03-19,350,Tienda Física,Tarjeta Débito
+C101,2025-03-19,100,Tienda Física,Tarjeta Débito
+C057,2025-03-19,300,Tienda Física,Tarjeta Crédito
+C091,2025-03-19,140,App,Efectivo
+C235,2025-03-19,100,Tienda Física,Efectivo
+C283,2025-03-19,480,Tienda Física,Tarjeta Crédito
+C185,2025-03-20,40,Tienda Física,Efectivo
+C254,2025-03-20,300,Tienda Física,Tarjeta Débito
+C064,2025-03-20,140,Tienda Física,Tarjeta Débito
+C069,2025-03-20,480,Tienda Física,Tarjeta Crédito
+C287,2025-03-20,480,Tienda Física,Tarjeta Crédito
+C023,2025-03-20,200,Online,Tarjeta Débito
+C278,2025-03-20,30,Tienda Física,Efectivo
+C200,2025-03-20,60,App,Efectivo
+C053,2025-03-20,180,Tienda Física,Tarjeta Crédito
+C035,2025-03-21,480,Tienda Física,Tarjeta Crédito
+C012,2025-03-21,60,Tienda Física,Tarjeta Débito
+C052,2025-03-21,200,Tienda Física,Tarjeta Crédito
+C210,2025-03-21,480,Tienda Física,Tarjeta Crédito
+C062,2025-03-21,160,Tienda Física,Tarjeta Crédito
+C162,2025-03-21,180,App,Efectivo
+C048,2025-03-21,450,Tienda Física,Tarjeta Crédito
+C295,2025-03-21,160,App,Tarjeta Crédito
+C091,2025-03-21,140,App,Tarjeta Débito
+C226,2025-03-21,10,Tienda Física,Efectivo
+C253,2025-03-21,200,Tienda Física,Tarjeta Débito
+C109,2025-03-22,400,Tienda Física,Tarjeta Crédito
+C080,2025-03-22,200,Online,Tarjeta Débito
+C008,2025-03-22,500,Tienda Física,Tarjeta Crédito
+C122,2025-03-22,500,Tienda Física,Tarjeta Crédito
+C029,2025-03-22,60,Online,Efectivo
+C030,2025-03-22,160,Tienda Física,Tarjeta Débito
+C201,2025-03-22,500,Tienda Física,Tarjeta Crédito
+C291,2025-03-22,480,Tienda Física,Tarjeta Crédito
+C190,2025-03-22,350,Online,Tarjeta Crédito
+C245,2025-03-22,200,Tienda Física,Tarjeta Crédito
+C276,2025-03-23,180,Online,Tarjeta Débito
+C256,2025-03-23,200,Tienda Física,Tarjeta Débito
+C123,2025-03-23,200,Online,Tarjeta Débito
+C074,2025-03-23,50,Tienda Física,Efectivo
+C083,2025-03-23,100,App,Tarjeta Débito
+C070,2025-03-23,160,Tienda Física,Efectivo
+C261,2025-03-23,450,Tienda Física,Tarjeta Crédito
+C180,2025-03-23,10,Tienda Física,Efectivo
+C006,2025-03-23,180,Online,Tarjeta Débito
+C126,2025-03-24,100,App,Tarjeta Débito
+C098,2025-03-24,500,Tienda Física,Tarjeta Crédito
+C100,2025-03-24,140,Online,Efectivo
+C055,2025-03-24,50,Tienda Física,Efectivo
+C099,2025-03-24,480,Tienda Física,Tarjeta Crédito
+C167,2025-03-24,120,Tienda Física,Tarjeta Débito
+C261,2025-03-24,480,Tienda Física,Tarjeta Crédito
+C014,2025-03-24,200,Online,Tarjeta Crédito
+C172,2025-03-25,300,Online,Tarjeta Crédito
+C087,2025-03-25,500,Tienda Física,Tarjeta Crédito
+C127,2025-03-25,140,Online,Efectivo
+C287,2025-03-25,480,Tienda Física,Tarjeta Crédito
+C174,2025-03-25,350,Online,Tarjeta Débito
+C144,2025-03-25,300,Online,Tarjeta Crédito
+C146,2025-03-26,30,Tienda Física,Efectivo
+C041,2025-03-26,450,Tienda Física,Tarjeta Crédito
+C115,2025-03-26,140,Tienda Física,Efectivo
+C116,2025-03-26,200,Online,Tarjeta Crédito
+C073,2025-03-26,300,Online,Tarjeta Crédito
+C289,2025-03-26,100,Online,Tarjeta Débito
+C150,2025-03-26,300,Tienda Física,Tarjeta Crédito
+C016,2025-03-26,160,Tienda Física,Efectivo
+C153,2025-03-26,480,Tienda Física,Tarjeta Crédito
+C252,2025-03-27,350,Tienda Física,Tarjeta Débito
+C263,2025-03-27,60,Tienda Física,Tarjeta Crédito
+C155,2025-03-27,180,App,Tarjeta Crédito
+C020,2025-03-27,100,App,Tarjeta Débito
+C227,2025-03-27,480,Tienda Física,Tarjeta Crédito
+C076,2025-03-27,120,Online,Tarjeta Crédito
+C081,2025-03-27,50,Tienda Física,Efectivo
+C028,2025-03-27,350,Tienda Física,Tarjeta Crédito
+C067,2025-03-27,500,Tienda Física,Tarjeta Crédito
+C160,2025-03-27,350,Online,Tarjeta Crédito
+C209,2025-03-27,20,Tienda Física,Efectivo
+C093,2025-03-28,140,App,Tarjeta Débito
+C299,2025-03-28,200,Online,Tarjeta Débito
+C025,2025-03-28,140,App,Tarjeta Débito
+C203,2025-03-28,480,Tienda Física,Tarjeta Crédito
+C115,2025-03-28,120,Tienda Física,Efectivo
+C111,2025-03-28,480,Tienda Física,Tarjeta Crédito
+C040,2025-03-28,500,Tienda Física,Tarjeta Crédito
+C166,2025-03-29,480,Tienda Física,Tarjeta Crédito
+C045,2025-03-29,140,Tienda Física,Efectivo
+C257,2025-03-29,350,Tienda Física,Tarjeta Débito
+C018,2025-03-29,180,Online,Tarjeta Crédito
+C049,2025-03-29,480,Tienda Física,Tarjeta Crédito
+C088,2025-03-29,480,Tienda Física,Tarjeta Crédito
+C091,2025-03-29,140,App,Tarjeta Crédito
+C029,2025-03-29,20,Tienda Física,Efectivo
+C020,2025-03-29,160,Tienda Física,Efectivo
+C275,2025-03-29,200,Tienda Física,Tarjeta Débito
+C214,2025-03-29,140,Online,Efectivo
+C103,2025-03-29,140,Tienda Física,Tarjeta Débito
+C067,2025-03-29,450,Tienda Física,Tarjeta Crédito
+C243,2025-03-30,180,App,Tarjeta Débito
+C224,2025-03-30,500,Tienda Física,Tarjeta Crédito
+C105,2025-03-30,160,Online,Tarjeta Débito
+C115,2025-03-30,120,Online,Tarjeta Débito
+C160,2025-03-30,450,Tienda Física,Tarjeta Crédito
+C164,2025-03-30,60,App,Tarjeta Débito
+C024,2025-03-30,200,Tienda Física,Tarjeta Crédito
+C113,2025-03-30,180,App,Efectivo
+C046,2025-03-30,200,Tienda Física,Tarjeta Crédito
+C010,2025-03-30,30,Tienda Física,Efectivo
+C277,2025-03-30,180,App,Efectivo
+C221,2025-03-31,160,Online,Tarjeta Débito
+C055,2025-03-31,60,App,Efectivo
+C214,2025-03-31,100,Tienda Física,Efectivo
+C232,2025-03-31,40,Tienda Física,Efectivo
+C288,2025-03-31,100,Online,Efectivo
+C191,2025-03-31,40,Tienda Física,Efectivo
+C168,2025-03-31,200,Tienda Física,Tarjeta Débito
+C255,2025-03-31,400,Tienda Física,Tarjeta Crédito
+C275,2025-03-31,200,Online,Tarjeta Crédito
+C079,2025-04-01,30,Tienda Física,Efectivo
+C074,2025-04-01,60,Tienda Física,Efectivo
+C223,2025-04-01,480,Tienda Física,Tarjeta Crédito
+C264,2025-04-01,350,Tienda Física,Tarjeta Débito
+C027,2025-04-01,180,Tienda Física,Efectivo
+C146,2025-04-01,10,Tienda Física,Efectivo
+C108,2025-04-01,500,Tienda Física,Tarjeta Crédito
+C260,2025-04-01,140,Tienda Física,Tarjeta Débito
+C290,2025-04-01,300,Online,Tarjeta Crédito
+C222,2025-04-01,140,Tienda Física,Tarjeta Débito
+C254,2025-04-01,300,Online,Tarjeta Crédito
+C105,2025-04-02,160,App,Tarjeta Débito
+C218,2025-04-02,30,Tienda Física,Efectivo
+C275,2025-04-02,160,App,Tarjeta Débito
+C045,2025-04-02,140,Tienda Física,Tarjeta Débito
+C101,2025-04-02,180,App,Tarjeta Crédito
+C026,2025-04-02,100,Online,Efectivo
+C154,2025-04-02,100,Online,Tarjeta Débito
+C143,2025-04-02,60,App,Tarjeta Débito
+C038,2025-04-02,100,Online,Tarjeta Débito
+C081,2025-04-02,60,App,Tarjeta Crédito
+C218,2025-04-03,60,Online,Tarjeta Débito
+C016,2025-04-03,200,Tienda Física,Tarjeta Débito
+C180,2025-04-03,60,Tienda Física,Tarjeta Crédito
+C215,2025-04-03,10,Tienda Física,Efectivo
+C290,2025-04-03,300,Online,Tarjeta Débito
+C004,2025-04-03,20,Tienda Física,Efectivo
+C204,2025-04-03,200,Tienda Física,Tarjeta Débito
+C257,2025-04-03,480,Tienda Física,Tarjeta Crédito
+C108,2025-04-03,480,Tienda Física,Tarjeta Crédito
+C143,2025-04-03,40,Tienda Física,Efectivo
+C228,2025-04-03,120,Tienda Física,Tarjeta Débito
+C143,2025-04-03,40,Tienda Física,Efectivo
+C300,2025-04-04,180,App,Efectivo
+C108,2025-04-04,450,Tienda Física,Tarjeta Crédito
+C257,2025-04-04,400,Tienda Física,Tarjeta Crédito
+C192,2025-04-04,350,Tienda Física,Tarjeta Crédito
+C175,2025-04-04,450,Tienda Física,Tarjeta Crédito
+C179,2025-04-04,120,App,Tarjeta Débito
+C107,2025-04-04,20,Tienda Física,Efectivo
+C226,2025-04-04,10,Tienda Física,Efectivo
+C186,2025-04-04,180,App,Tarjeta Débito
+C051,2025-04-04,160,App,Tarjeta Débito
+C072,2025-04-04,500,Tienda Física,Tarjeta Crédito
+C293,2025-04-05,160,Tienda Física,Tarjeta Débito
+C158,2025-04-05,350,Online,Tarjeta Débito
+C240,2025-04-05,160,App,Efectivo
+C086,2025-04-05,480,Tienda Física,Tarjeta Crédito
+C201,2025-04-05,480,Tienda Física,Tarjeta Crédito
+C256,2025-04-05,140,App,Tarjeta Crédito
+C222,2025-04-05,160,Tienda Física,Tarjeta Crédito
+C078,2025-04-05,350,Online,Tarjeta Débito
+C188,2025-04-05,480,Tienda Física,Tarjeta Crédito
+C071,2025-04-06,450,Tienda Física,Tarjeta Crédito
+C012,2025-04-06,50,Tienda Física,Efectivo
+C017,2025-04-06,40,Tienda Física,Efectivo
+C189,2025-04-06,180,App,Tarjeta Débito
+C019,2025-04-06,180,Tienda Física,Efectivo
+C024,2025-04-06,180,Online,Tarjeta Crédito
+C177,2025-04-06,120,Tienda Física,Tarjeta Débito
+C066,2025-04-06,200,Online,Tarjeta Crédito
+C089,2025-04-06,160,Online,Tarjeta Crédito
+C026,2025-04-06,120,Online,Tarjeta Débito
+C273,2025-04-07,500,Tienda Física,Tarjeta Crédito
+C075,2025-04-07,450,Tienda Física,Tarjeta Crédito
+C139,2025-04-07,30,Tienda Física,Efectivo
+C149,2025-04-07,120,Tienda Física,Efectivo
+C241,2025-04-07,400,Tienda Física,Tarjeta Crédito
+C275,2025-04-07,180,App,Efectivo
+C199,2025-04-07,450,Tienda Física,Tarjeta Crédito
+C231,2025-04-07,200,Tienda Física,Tarjeta Crédito
+C239,2025-04-07,140,Online,Efectivo
+C125,2025-04-07,350,Online,Tarjeta Crédito
+C022,2025-04-07,20,Tienda Física,Efectivo
+C023,2025-04-07,180,Online,Tarjeta Débito
+C212,2025-04-07,180,Online,Efectivo
+C126,2025-04-07,120,Online,Tarjeta Débito
+C209,2025-04-07,60,Tienda Física,Tarjeta Crédito
+C298,2025-04-07,400,Tienda Física,Tarjeta Crédito
+C237,2025-04-07,140,App,Tarjeta Débito
+C277,2025-04-08,200,Online,Tarjeta Crédito
+C075,2025-04-08,480,Tienda Física,Tarjeta Crédito
+C288,2025-04-08,100,Tienda Física,Efectivo
+C268,2025-04-08,40,Tienda Física,Efectivo
+C025,2025-04-08,140,Online,Efectivo
+C142,2025-04-08,450,Tienda Física,Tarjeta Crédito
+C166,2025-04-08,350,Tienda Física,Tarjeta Crédito
+C250,2025-04-08,180,App,Efectivo
+C003,2025-04-08,50,Tienda Física,Efectivo
+C092,2025-04-08,300,Online,Tarjeta Débito
+C209,2025-04-08,60,App,Tarjeta Crédito
+C234,2025-04-09,300,Tienda Física,Tarjeta Débito
+C285,2025-04-09,50,Tienda Física,Efectivo
+C232,2025-04-09,40,Tienda Física,Efectivo
+C231,2025-04-09,160,Online,Tarjeta Débito
+C224,2025-04-09,400,Tienda Física,Tarjeta Crédito
+C150,2025-04-09,400,Tienda Física,Tarjeta Crédito
+C131,2025-04-09,160,App,Tarjeta Débito
+C021,2025-04-09,180,Online,Tarjeta Débito
+C175,2025-04-09,500,Tienda Física,Tarjeta Crédito
+C156,2025-04-09,140,Tienda Física,Efectivo
+C196,2025-04-09,450,Tienda Física,Tarjeta Crédito
+C106,2025-04-09,300,Online,Tarjeta Crédito
+C270,2025-04-10,350,Online,Tarjeta Débito
+C300,2025-04-10,180,Tienda Física,Efectivo
+C237,2025-04-10,100,App,Tarjeta Crédito
+C281,2025-04-10,480,Tienda Física,Tarjeta Crédito
+C031,2025-04-10,160,Tienda Física,Efectivo
+C160,2025-04-10,500,Tienda Física,Tarjeta Crédito
+C016,2025-04-10,160,Online,Efectivo
+C203,2025-04-10,450,Tienda Física,Tarjeta Crédito
+C252,2025-04-10,300,Online,Tarjeta Débito
+C101,2025-04-10,160,App,Tarjeta Crédito
+C291,2025-04-10,480,Tienda Física,Tarjeta Crédito
+C169,2025-04-10,480,Tienda Física,Tarjeta Crédito
+C167,2025-04-11,140,App,Efectivo
+C215,2025-04-11,20,Tienda Física,Efectivo
+C116,2025-04-11,160,App,Tarjeta Crédito
+C179,2025-04-11,140,App,Efectivo
+C265,2025-04-11,160,Online,Efectivo
+C117,2025-04-11,60,Online,Tarjeta Débito
+C006,2025-04-12,180,Online,Tarjeta Crédito
+C154,2025-04-12,200,Tienda Física,Tarjeta Débito
+C037,2025-04-12,200,Tienda Física,Tarjeta Crédito
+C284,2025-04-12,120,App,Tarjeta Crédito
+C034,2025-04-12,400,Tienda Física,Tarjeta Crédito
+C249,2025-04-12,350,Online,Tarjeta Crédito
+C117,2025-04-12,40,Tienda Física,Efectivo
+C187,2025-04-12,160,Tienda Física,Tarjeta Crédito
+C002,2025-04-12,100,Tienda Física,Tarjeta Crédito
+C256,2025-04-12,180,Online,Tarjeta Crédito
+C198,2025-04-12,120,Online,Efectivo
+C288,2025-04-12,100,Online,Efectivo
+C035,2025-04-13,500,Tienda Física,Tarjeta Crédito
+C220,2025-04-13,40,Tienda Física,Efectivo
+C014,2025-04-13,160,Online,Tarjeta Crédito
+C162,2025-04-13,120,Online,Efectivo
+C140,2025-04-13,500,Tienda Física,Tarjeta Crédito
+C053,2025-04-13,160,Tienda Física,Tarjeta Débito
+C213,2025-04-13,100,Tienda Física,Efectivo
+C173,2025-04-13,500,Tienda Física,Tarjeta Crédito
+C111,2025-04-13,480,Tienda Física,Tarjeta Crédito
+C118,2025-04-13,120,App,Efectivo
+C005,2025-04-13,180,Tienda Física,Tarjeta Débito
+C080,2025-04-13,180,Online,Tarjeta Débito
+C096,2025-04-13,200,Online,Tarjeta Débito
+C097,2025-04-13,500,Tienda Física,Tarjeta Crédito
+C098,2025-04-13,480,Tienda Física,Tarjeta Crédito
+C104,2025-04-13,350,Online,Tarjeta Crédito
+C236,2025-04-13,500,Tienda Física,Tarjeta Crédito
+C084,2025-04-14,30,Tienda Física,Efectivo
+C047,2025-04-14,480,Tienda Física,Tarjeta Crédito
+C017,2025-04-14,20,Tienda Física,Efectivo
+C129,2025-04-14,100,App,Tarjeta Débito
+C289,2025-04-14,140,Online,Tarjeta Crédito
+C122,2025-04-14,450,Tienda Física,Tarjeta Crédito
+C235,2025-04-14,120,Online,Tarjeta Crédito
+C068,2025-04-14,30,Tienda Física,Efectivo
+C174,2025-04-14,350,Tienda Física,Tarjeta Débito
+C048,2025-04-14,480,Tienda Física,Tarjeta Crédito
+C270,2025-04-15,450,Tienda Física,Tarjeta Crédito
+C055,2025-04-15,40,Tienda Física,Efectivo
+C295,2025-04-15,180,Online,Tarjeta Débito
+C246,2025-04-15,480,Tienda Física,Tarjeta Crédito
+C215,2025-04-15,20,Tienda Física,Efectivo
+C135,2025-04-15,50,Tienda Física,Efectivo
+C206,2025-04-15,120,Online,Efectivo
+C077,2025-04-15,450,Tienda Física,Tarjeta Crédito
+C024,2025-04-16,140,Online,Efectivo
+C037,2025-04-16,180,Tienda Física,Tarjeta Débito
+C195,2025-04-16,180,Tienda Física,Tarjeta Débito
+C242,2025-04-16,140,Tienda Física,Efectivo
+C180,2025-04-16,30,Tienda Física,Efectivo
+C011,2025-04-16,160,Tienda Física,Tarjeta Crédito
+C182,2025-04-16,140,Online,Efectivo
+C040,2025-04-16,450,Tienda Física,Tarjeta Crédito
+C278,2025-04-16,20,Tienda Física,Efectivo
+C229,2025-04-16,450,Tienda Física,Tarjeta Crédito
+C275,2025-04-17,180,Tienda Física,Efectivo
+C177,2025-04-17,160,App,Efectivo
+C028,2025-04-17,300,Tienda Física,Tarjeta Crédito
+C069,2025-04-17,450,Tienda Física,Tarjeta Crédito
+C274,2025-04-17,120,App,Tarjeta Débito
+C289,2025-04-17,200,Tienda Física,Tarjeta Crédito
+C131,2025-04-17,180,Tienda Física,Tarjeta Crédito
+C087,2025-04-17,480,Tienda Física,Tarjeta Crédito
+C131,2025-04-17,180,App,Efectivo
+C202,2025-04-17,200,Online,Tarjeta Crédito
+C182,2025-04-17,120,Tienda Física,Efectivo
+C171,2025-04-17,100,Online,Efectivo
+C259,2025-04-17,160,App,Efectivo
+C186,2025-04-18,140,Online,Tarjeta Débito
+C061,2025-04-18,500,Tienda Física,Tarjeta Crédito
+C253,2025-04-18,200,Online,Tarjeta Débito
+C043,2025-04-18,400,Tienda Física,Tarjeta Crédito
+C017,2025-04-18,50,Tienda Física,Efectivo
+C211,2025-04-18,500,Tienda Física,Tarjeta Crédito
+C053,2025-04-18,200,Online,Tarjeta Crédito
+C048,2025-04-18,480,Tienda Física,Tarjeta Crédito
+C047,2025-04-18,500,Tienda Física,Tarjeta Crédito
+C224,2025-04-18,300,Online,Tarjeta Débito
+C227,2025-04-19,500,Tienda Física,Tarjeta Crédito
+C093,2025-04-19,140,Tienda Física,Tarjeta Crédito
+C090,2025-04-19,120,App,Tarjeta Débito
+C099,2025-04-19,480,Tienda Física,Tarjeta Crédito
+C149,2025-04-19,160,Online,Efectivo
+C096,2025-04-19,160,App,Tarjeta Débito
+C163,2025-04-19,480,Tienda Física,Tarjeta Crédito
+C252,2025-04-19,480,Tienda Física,Tarjeta Crédito
+C181,2025-04-19,500,Tienda Física,Tarjeta Crédito
+C171,2025-04-20,100,Online,Tarjeta Débito
+C167,2025-04-20,120,App,Tarjeta Crédito
+C036,2025-04-20,200,Online,Tarjeta Crédito
+C119,2025-04-20,160,Tienda Física,Tarjeta Débito
+C275,2025-04-20,180,App,Efectivo
+C004,2025-04-20,20,Tienda Física,Efectivo
+C221,2025-04-20,160,App,Efectivo
+C099,2025-04-20,480,Tienda Física,Tarjeta Crédito
+C294,2025-04-21,100,App,Efectivo
+C130,2025-04-21,120,Tienda Física,Tarjeta Crédito
+C297,2025-04-21,450,Tienda Física,Tarjeta Crédito
+C285,2025-04-21,50,Tienda Física,Efectivo
+C077,2025-04-21,300,Online,Tarjeta Crédito
+C078,2025-04-21,500,Tienda Física,Tarjeta Crédito
+C054,2025-04-21,500,Tienda Física,Tarjeta Crédito
+C287,2025-04-21,450,Tienda Física,Tarjeta Crédito
+C013,2025-04-21,120,App,Efectivo
+C243,2025-04-21,100,Tienda Física,Efectivo
+C258,2025-04-22,200,Online,Tarjeta Débito
+C138,2025-04-22,400,Tienda Física,Tarjeta Crédito
+C147,2025-04-22,160,Tienda Física,Efectivo
+C181,2025-04-22,480,Tienda Física,Tarjeta Crédito
+C096,2025-04-22,180,App,Tarjeta Débito
+C107,2025-04-22,20,Tienda Física,Efectivo
+C235,2025-04-22,180,App,Tarjeta Débito
+C276,2025-04-22,140,App,Tarjeta Débito
+C128,2025-04-22,10,Tienda Física,Efectivo
+C071,2025-04-22,480,Tienda Física,Tarjeta Crédito
+C036,2025-04-22,180,Tienda Física,Efectivo
+C075,2025-04-22,450,Tienda Física,Tarjeta Crédito
+C243,2025-04-22,120,Online,Tarjeta Débito
+C250,2025-04-22,120,Online,Efectivo
+C290,2025-04-23,480,Tienda Física,Tarjeta Crédito
+C252,2025-04-23,300,Online,Tarjeta Débito
+C012,2025-04-23,50,Tienda Física,Efectivo
+C199,2025-04-23,500,Tienda Física,Tarjeta Crédito
+C297,2025-04-23,480,Tienda Física,Tarjeta Crédito
+C003,2025-04-23,40,Tienda Física,Efectivo
+C232,2025-04-23,40,Tienda Física,Efectivo
+C198,2025-04-23,100,App,Tarjeta Débito
+C025,2025-04-23,120,Online,Tarjeta Débito
+C129,2025-04-23,100,Online,Tarjeta Crédito
+C071,2025-04-23,480,Tienda Física,Tarjeta Crédito
+C094,2025-04-24,500,Tienda Física,Tarjeta Crédito
+C152,2025-04-24,160,Online,Efectivo
+C090,2025-04-24,160,Online,Tarjeta Crédito
+C294,2025-04-24,120,Tienda Física,Tarjeta Crédito
+C100,2025-04-24,140,App,Tarjeta Crédito
+C053,2025-04-24,160,Tienda Física,Efectivo
+C264,2025-04-24,300,Online,Tarjeta Débito
+C063,2025-04-24,180,Tienda Física,Tarjeta Débito
+C177,2025-04-24,100,Online,Tarjeta Débito
+C175,2025-04-24,480,Tienda Física,Tarjeta Crédito
+C081,2025-04-25,60,Tienda Física,Tarjeta Débito
+C173,2025-04-25,500,Tienda Física,Tarjeta Crédito
+C128,2025-04-25,20,Tienda Física,Efectivo
+C151,2025-04-25,160,App,Tarjeta Crédito
+C226,2025-04-25,30,Tienda Física,Efectivo
+C053,2025-04-25,180,Online,Efectivo
+C017,2025-04-25,60,App,Tarjeta Débito
+C122,2025-04-25,480,Tienda Física,Tarjeta Crédito
+C118,2025-04-25,100,Tienda Física,Tarjeta Crédito
+C232,2025-04-25,40,Tienda Física,Efectivo
+C159,2025-04-25,50,Tienda Física,Efectivo
+C117,2025-04-25,50,Tienda Física,Efectivo
+C211,2025-04-25,300,Online,Tarjeta Débito
+C109,2025-04-25,480,Tienda Física,Tarjeta Crédito
+C113,2025-04-25,200,Tienda Física,Tarjeta Crédito
+C261,2025-04-25,450,Tienda Física,Tarjeta Crédito
+C017,2025-04-26,40,Tienda Física,Efectivo
+C271,2025-04-26,180,App,Tarjeta Crédito
+C226,2025-04-26,50,Tienda Física,Efectivo
+C086,2025-04-26,450,Tienda Física,Tarjeta Crédito
+C156,2025-04-26,140,Tienda Física,Tarjeta Crédito
+C071,2025-04-26,480,Tienda Física,Tarjeta Crédito
+C204,2025-04-26,120,App,Tarjeta Crédito
+C145,2025-04-26,30,Tienda Física,Efectivo
+C029,2025-04-27,60,Online,Efectivo
+C157,2025-04-27,350,Tienda Física,Tarjeta Crédito
+C298,2025-04-27,350,Online,Tarjeta Débito
+C128,2025-04-27,10,Tienda Física,Efectivo
+C222,2025-04-27,180,Tienda Física,Efectivo
+C288,2025-04-27,100,App,Tarjeta Crédito
+C256,2025-04-27,140,App,Efectivo
+C260,2025-04-27,120,Tienda Física,Efectivo
+C008,2025-04-27,350,Online,Tarjeta Crédito
+C066,2025-04-28,160,App,Efectivo
+C060,2025-04-28,400,Tienda Física,Tarjeta Crédito
+C010,2025-04-28,30,Tienda Física,Efectivo
+C027,2025-04-28,160,Tienda Física,Tarjeta Débito
+C166,2025-04-28,300,Online,Tarjeta Débito
+C139,2025-04-28,10,Tienda Física,Efectivo
+C288,2025-04-28,100,Tienda Física,Tarjeta Crédito
+C226,2025-04-28,60,Tienda Física,Efectivo
+C256,2025-04-28,140,App,Efectivo
+C029,2025-04-28,10,Tienda Física,Efectivo
+C257,2025-04-28,500,Tienda Física,Tarjeta Crédito
+C180,2025-04-28,30,Tienda Física,Efectivo
+C031,2025-04-28,100,Tienda Física,Tarjeta Débito
+C202,2025-04-29,160,Tienda Física,Efectivo
+C284,2025-04-29,200,Tienda Física,Tarjeta Débito
+C045,2025-04-29,200,Tienda Física,Tarjeta Crédito
+C232,2025-04-29,40,Tienda Física,Efectivo
+C014,2025-04-29,100,App,Tarjeta Crédito
+C056,2025-04-29,120,Tienda Física,Tarjeta Débito
+C094,2025-04-29,480,Tienda Física,Tarjeta Crédito
+C285,2025-04-29,40,Tienda Física,Efectivo
+C159,2025-04-29,60,Tienda Física,Efectivo
+C145,2025-04-29,60,App,Tarjeta Crédito
+C045,2025-04-29,180,Online,Tarjeta Crédito
+C149,2025-04-30,120,Online,Efectivo
+C188,2025-04-30,450,Tienda Física,Tarjeta Crédito
+C168,2025-04-30,180,Tienda Física,Tarjeta Crédito
+C209,2025-04-30,30,Tienda Física,Efectivo
+C115,2025-04-30,120,App,Tarjeta Crédito
+C196,2025-04-30,350,Online,Tarjeta Débito
+C150,2025-04-30,300,Tienda Física,Tarjeta Débito
+C233,2025-04-30,140,Tienda Física,Tarjeta Débito
+C110,2025-04-30,50,Tienda Física,Efectivo
+C056,2025-05-01,100,Tienda Física,Tarjeta Débito
+C165,2025-05-01,160,Tienda Física,Tarjeta Débito
+C187,2025-05-01,180,Tienda Física,Efectivo
+C005,2025-05-01,140,Tienda Física,Tarjeta Crédito
+C197,2025-05-01,100,Online,Tarjeta Crédito
+C269,2025-05-01,500,Tienda Física,Tarjeta Crédito
+C251,2025-05-01,400,Tienda Física,Tarjeta Crédito
+C197,2025-05-01,120,Tienda Física,Efectivo
+C144,2025-05-01,500,Tienda Física,Tarjeta Crédito
+C125,2025-05-01,400,Tienda Física,Tarjeta Crédito
+C183,2025-05-01,450,Tienda Física,Tarjeta Crédito
+C245,2025-05-02,200,Tienda Física,Tarjeta Débito
+C221,2025-05-02,160,Tienda Física,Tarjeta Débito
+C121,2025-05-02,300,Tienda Física,Tarjeta Crédito
+C202,2025-05-02,160,App,Tarjeta Débito
+C088,2025-05-02,480,Tienda Física,Tarjeta Crédito
+C059,2025-05-02,500,Tienda Física,Tarjeta Crédito
+C186,2025-05-02,160,Online,Efectivo
+C132,2025-05-02,450,Tienda Física,Tarjeta Crédito
+C123,2025-05-02,180,Tienda Física,Tarjeta Crédito
+C205,2025-05-03,20,Tienda Física,Efectivo
+C003,2025-05-03,40,Tienda Física,Efectivo
+C040,2025-05-03,480,Tienda Física,Tarjeta Crédito
+C289,2025-05-03,100,Tienda Física,Efectivo
+C055,2025-05-03,40,Tienda Física,Efectivo
+C227,2025-05-03,450,Tienda Física,Tarjeta Crédito
+C225,2025-05-03,180,App,Efectivo
+C144,2025-05-04,450,Tienda Física,Tarjeta Crédito
+C152,2025-05-04,200,Tienda Física,Tarjeta Débito
+C258,2025-05-04,180,Online,Tarjeta Crédito
+C197,2025-05-04,140,Online,Tarjeta Crédito
+C012,2025-05-04,20,Tienda Física,Efectivo
+C069,2025-05-04,480,Tienda Física,Tarjeta Crédito
+C292,2025-05-04,60,Tienda Física,Efectivo
+C103,2025-05-04,200,Tienda Física,Tarjeta Débito
+C013,2025-05-04,140,Tienda Física,Tarjeta Débito
+C080,2025-05-05,180,Online,Tarjeta Crédito
+C090,2025-05-05,120,Tienda Física,Tarjeta Débito
+C057,2025-05-05,350,Online,Tarjeta Débito
+C057,2025-05-05,450,Tienda Física,Tarjeta Crédito
+C248,2025-05-05,300,Online,Tarjeta Débito
+C292,2025-05-05,40,Tienda Física,Efectivo
+C092,2025-05-05,400,Tienda Física,Tarjeta Crédito
+C005,2025-05-05,160,Online,Efectivo
+C167,2025-05-05,160,Online,Tarjeta Crédito
+C155,2025-05-06,180,App,Tarjeta Débito
+C182,2025-05-06,160,Online,Tarjeta Crédito
+C233,2025-05-06,100,App,Tarjeta Crédito
+C084,2025-05-06,30,Tienda Física,Efectivo
+C172,2025-05-06,350,Online,Tarjeta Débito
+C249,2025-05-06,300,Tienda Física,Tarjeta Crédito
+C226,2025-05-06,30,Tienda Física,Efectivo
+C061,2025-05-06,350,Online,Tarjeta Débito
+C061,2025-05-06,450,Tienda Física,Tarjeta Crédito
+C176,2025-05-06,100,Tienda Física,Efectivo
+C289,2025-05-06,120,Tienda Física,Efectivo
+C285,2025-05-06,50,Tienda Física,Efectivo
+C233,2025-05-06,120,Online,Efectivo
+C018,2025-05-07,180,Tienda Física,Tarjeta Crédito
+C019,2025-05-07,180,App,Efectivo
+C282,2025-05-07,350,Tienda Física,Tarjeta Débito
+C200,2025-05-07,50,Tienda Física,Efectivo
+C031,2025-05-07,120,App,Efectivo
+C259,2025-05-07,120,Online,Tarjeta Débito
+C161,2025-05-07,100,Online,Tarjeta Crédito
+C113,2025-05-07,180,Online,Efectivo
+C173,2025-05-07,350,Tienda Física,Tarjeta Débito
+C107,2025-05-07,10,Tienda Física,Efectivo
+C024,2025-05-07,140,App,Tarjeta Débito
+C044,2025-05-07,180,Online,Efectivo
+C207,2025-05-07,10,Tienda Física,Efectivo
+C117,2025-05-07,20,Tienda Física,Efectivo
+C260,2025-05-08,120,App,Efectivo
+C146,2025-05-08,40,Tienda Física,Efectivo
+C036,2025-05-08,160,Online,Tarjeta Crédito
+C013,2025-05-08,100,App,Efectivo
+C070,2025-05-08,140,Online,Tarjeta Crédito
+C105,2025-05-08,160,Tienda Física,Tarjeta Débito
+C085,2025-05-08,500,Tienda Física,Tarjeta Crédito
+C184,2025-05-08,100,Online,Tarjeta Crédito
+C003,2025-05-08,40,Tienda Física,Efectivo
+C180,2025-05-08,20,Tienda Física,Efectivo
+C265,2025-05-08,120,App,Efectivo
+C046,2025-05-08,140,Tienda Física,Efectivo
+C261,2025-05-09,450,Tienda Física,Tarjeta Crédito
+C247,2025-05-09,180,Tienda Física,Tarjeta Débito
+C245,2025-05-09,160,App,Tarjeta Débito
+C258,2025-05-09,180,App,Tarjeta Crédito
+C129,2025-05-09,200,Tienda Física,Tarjeta Débito
+C069,2025-05-09,450,Tienda Física,Tarjeta Crédito
+C214,2025-05-09,200,Online,Tarjeta Crédito
+C012,2025-05-09,30,Tienda Física,Efectivo
+C067,2025-05-09,480,Tienda Física,Tarjeta Crédito
+C269,2025-05-09,450,Tienda Física,Tarjeta Crédito
+C071,2025-05-09,500,Tienda Física,Tarjeta Crédito
+C294,2025-05-09,140,Tienda Física,Tarjeta Débito
+C131,2025-05-09,180,Tienda Física,Efectivo
+C059,2025-05-09,300,Tienda Física,Tarjeta Crédito
+C230,2025-05-09,300,Tienda Física,Tarjeta Débito
+C216,2025-05-10,200,Tienda Física,Tarjeta Crédito
+C032,2025-05-10,200,Online,Tarjeta Débito
+C037,2025-05-10,180,Online,Tarjeta Débito
+C294,2025-05-10,120,Online,Tarjeta Débito
+C142,2025-05-10,300,Online,Tarjeta Crédito
+C156,2025-05-10,100,Online,Tarjeta Débito
+C001,2025-05-10,350,Tienda Física,Tarjeta Crédito
+C010,2025-05-10,50,Tienda Física,Efectivo
+C296,2025-05-10,50,Tienda Física,Efectivo
+C038,2025-05-10,160,App,Tarjeta Débito
+C060,2025-05-11,300,Tienda Física,Tarjeta Crédito
+C191,2025-05-11,50,Tienda Física,Efectivo
+C141,2025-05-11,140,Online,Efectivo
+C004,2025-05-11,30,Tienda Física,Efectivo
+C146,2025-05-11,50,Tienda Física,Efectivo
+C229,2025-05-11,500,Tienda Física,Tarjeta Crédito
+C068,2025-05-11,20,Tienda Física,Efectivo
+C264,2025-05-11,300,Online,Tarjeta Crédito
+C094,2025-05-11,500,Tienda Física,Tarjeta Crédito
+C002,2025-05-11,140,Tienda Física,Tarjeta Crédito
+C109,2025-05-12,450,Tienda Física,Tarjeta Crédito
+C199,2025-05-12,480,Tienda Física,Tarjeta Crédito
+C016,2025-05-12,160,Online,Efectivo
+C138,2025-05-12,500,Tienda Física,Tarjeta Crédito
+C004,2025-05-12,20,Tienda Física,Efectivo
+C221,2025-05-12,200,Online,Tarjeta Crédito
+C176,2025-05-12,180,Tienda Física,Tarjeta Crédito
+C256,2025-05-12,180,Tienda Física,Efectivo
+C271,2025-05-12,160,App,Efectivo
+C147,2025-05-12,180,Tienda Física,Tarjeta Débito
+C233,2025-05-12,100,App,Tarjeta Crédito
+C043,2025-05-12,300,Online,Tarjeta Débito
+C300,2025-05-12,200,Tienda Física,Tarjeta Crédito
+C124,2025-05-12,450,Tienda Física,Tarjeta Crédito
+C042,2025-05-12,180,App,Tarjeta Débito
+C286,2025-05-13,140,App,Efectivo
+C103,2025-05-13,140,Online,Tarjeta Crédito
+C237,2025-05-13,100,App,Efectivo
+C127,2025-05-13,200,Tienda Física,Tarjeta Crédito
+C091,2025-05-13,140,App,Tarjeta Débito
+C177,2025-05-13,140,Tienda Física,Tarjeta Débito
+C104,2025-05-13,400,Tienda Física,Tarjeta Crédito
+C231,2025-05-13,160,App,Tarjeta Débito
+C211,2025-05-13,350,Tienda Física,Tarjeta Débito
+C184,2025-05-13,100,Tienda Física,Efectivo
+C128,2025-05-13,20,Tienda Física,Efectivo
+C079,2025-05-13,30,Tienda Física,Efectivo
+C195,2025-05-13,180,App,Tarjeta Crédito
+C021,2025-05-14,200,Online,Tarjeta Débito
+C088,2025-05-14,500,Tienda Física,Tarjeta Crédito
+C144,2025-05-14,450,Tienda Física,Tarjeta Crédito
+C125,2025-05-14,300,Tienda Física,Tarjeta Crédito
+C101,2025-05-14,120,Online,Tarjeta Débito
+C300,2025-05-14,160,Tienda Física,Tarjeta Débito
+C238,2025-05-15,500,Tienda Física,Tarjeta Crédito
+C156,2025-05-15,100,Online,Efectivo
+C207,2025-05-15,60,Online,Tarjeta Crédito
+C047,2025-05-15,480,Tienda Física,Tarjeta Crédito
+C023,2025-05-15,160,App,Tarjeta Débito
+C296,2025-05-16,40,Tienda Física,Efectivo
+C294,2025-05-16,120,Online,Efectivo
+C225,2025-05-16,160,Tienda Física,Tarjeta Crédito
+C270,2025-05-16,480,Tienda Física,Tarjeta Crédito
+C055,2025-05-16,60,Tienda Física,Efectivo
+C216,2025-05-16,100,App,Tarjeta Débito
+C248,2025-05-17,350,Online,Tarjeta Débito
+C249,2025-05-17,300,Tienda Física,Tarjeta Débito
+C047,2025-05-17,450,Tienda Física,Tarjeta Crédito
+C049,2025-05-17,480,Tienda Física,Tarjeta Crédito
+C244,2025-05-17,480,Tienda Física,Tarjeta Crédito
+C143,2025-05-17,60,Tienda Física,Tarjeta Débito
+C278,2025-05-17,10,Tienda Física,Efectivo
+C279,2025-05-17,160,App,Tarjeta Débito
+C181,2025-05-17,480,Tienda Física,Tarjeta Crédito
+C153,2025-05-17,450,Tienda Física,Tarjeta Crédito
+C007,2025-05-18,480,Tienda Física,Tarjeta Crédito
+C233,2025-05-18,120,App,Tarjeta Débito
+C079,2025-05-18,30,Tienda Física,Efectivo
+C120,2025-05-18,180,Tienda Física,Tarjeta Crédito
+C081,2025-05-18,30,Tienda Física,Efectivo
+C115,2025-05-18,180,Online,Tarjeta Débito
+C109,2025-05-18,500,Tienda Física,Tarjeta Crédito
+C219,2025-05-18,120,Online,Tarjeta Crédito
+C002,2025-05-18,100,Online,Tarjeta Crédito
+C131,2025-05-18,180,Tienda Física,Tarjeta Crédito
+C029,2025-05-18,40,Tienda Física,Efectivo
+C210,2025-05-19,450,Tienda Física,Tarjeta Crédito
+C289,2025-05-19,200,Tienda Física,Tarjeta Débito
+C260,2025-05-19,120,App,Efectivo
+C201,2025-05-19,450,Tienda Física,Tarjeta Crédito
+C124,2025-05-19,480,Tienda Física,Tarjeta Crédito
+C137,2025-05-20,500,Tienda Física,Tarjeta Crédito
+C036,2025-05-20,160,Tienda Física,Efectivo
+C240,2025-05-20,200,Online,Tarjeta Débito
+C060,2025-05-20,300,Tienda Física,Tarjeta Débito
+C300,2025-05-20,180,Tienda Física,Efectivo
+C077,2025-05-20,300,Tienda Física,Tarjeta Débito
+C001,2025-05-20,350,Online,Tarjeta Crédito
+C173,2025-05-20,350,Online,Tarjeta Débito
+C295,2025-05-20,200,Online,Tarjeta Crédito
+C266,2025-05-20,300,Tienda Física,Tarjeta Débito
+C132,2025-05-20,450,Tienda Física,Tarjeta Crédito
+C075,2025-05-21,480,Tienda Física,Tarjeta Crédito
+C038,2025-05-21,140,Tienda Física,Tarjeta Crédito
+C252,2025-05-21,450,Tienda Física,Tarjeta Crédito
+C001,2025-05-21,400,Tienda Física,Tarjeta Crédito
+C206,2025-05-21,160,App,Tarjeta Crédito
+C120,2025-05-21,160,Online,Tarjeta Crédito
+C251,2025-05-21,300,Tienda Física,Tarjeta Crédito
+C220,2025-05-21,50,Tienda Física,Efectivo
+C108,2025-05-21,450,Tienda Física,Tarjeta Crédito
+C134,2025-05-21,500,Tienda Física,Tarjeta Crédito
+C144,2025-05-21,350,Tienda Física,Tarjeta Débito
+C127,2025-05-22,100,App,Tarjeta Débito
+C128,2025-05-22,30,Tienda Física,Efectivo
+C021,2025-05-22,200,Tienda Física,Tarjeta Débito
+C147,2025-05-22,160,Tienda Física,Efectivo
+C043,2025-05-22,500,Tienda Física,Tarjeta Crédito
+C130,2025-05-22,200,Tienda Física,Tarjeta Débito
+C113,2025-05-22,100,App,Efectivo
+C063,2025-05-22,140,App,Efectivo
+C130,2025-05-22,200,Online,Tarjeta Débito
+C275,2025-05-22,180,App,Tarjeta Crédito
+C203,2025-05-22,500,Tienda Física,Tarjeta Crédito
+C244,2025-05-22,400,Tienda Física,Tarjeta Crédito
+C160,2025-05-22,500,Tienda Física,Tarjeta Crédito
+C132,2025-05-22,500,Tienda Física,Tarjeta Crédito
+C028,2025-05-23,350,Online,Tarjeta Débito
+C125,2025-05-23,300,Tienda Física,Tarjeta Débito
+C067,2025-05-23,450,Tienda Física,Tarjeta Crédito
+C295,2025-05-23,200,Tienda Física,Tarjeta Crédito
+C120,2025-05-23,160,Tienda Física,Tarjeta Débito
+C216,2025-05-23,160,App,Efectivo
+C103,2025-05-23,160,Tienda Física,Tarjeta Débito
+C280,2025-05-23,400,Tienda Física,Tarjeta Crédito
+C162,2025-05-23,140,Tienda Física,Efectivo
+C011,2025-05-23,100,Tienda Física,Tarjeta Débito
+C202,2025-05-23,200,Tienda Física,Tarjeta Crédito
+C024,2025-05-23,120,Tienda Física,Tarjeta Débito
+C111,2025-05-24,480,Tienda Física,Tarjeta Crédito
+C053,2025-05-24,160,Online,Tarjeta Débito
+C034,2025-05-24,450,Tienda Física,Tarjeta Crédito
+C082,2025-05-24,50,Tienda Física,Efectivo
+C046,2025-05-24,120,App,Tarjeta Crédito
+C118,2025-05-24,140,App,Tarjeta Crédito
+C139,2025-05-24,10,Tienda Física,Efectivo
+C067,2025-05-24,400,Tienda Física,Tarjeta Crédito
+C264,2025-05-24,480,Tienda Física,Tarjeta Crédito
+C116,2025-05-24,180,App,Efectivo
+C139,2025-05-25,20,Tienda Física,Efectivo
+C232,2025-05-25,40,Tienda Física,Efectivo
+C081,2025-05-25,50,Tienda Física,Efectivo
+C198,2025-05-25,120,App,Tarjeta Crédito
+C072,2025-05-25,500,Tienda Física,Tarjeta Crédito
+C197,2025-05-25,100,App,Efectivo
+C084,2025-05-25,20,Tienda Física,Efectivo
+C044,2025-05-25,180,App,Tarjeta Débito
+C012,2025-05-25,30,Tienda Física,Efectivo
+C042,2025-05-25,160,App,Tarjeta Débito
+C035,2025-05-25,300,Tienda Física,Tarjeta Crédito
+C215,2025-05-25,30,Tienda Física,Efectivo
+C214,2025-05-25,160,Online,Tarjeta Débito
+C293,2025-05-26,120,App,Tarjeta Crédito
+C285,2025-05-26,40,Tienda Física,Efectivo
+C104,2025-05-26,300,Online,Tarjeta Débito
+C018,2025-05-26,160,Tienda Física,Tarjeta Débito
+C086,2025-05-26,400,Tienda Física,Tarjeta Crédito
+C140,2025-05-27,480,Tienda Física,Tarjeta Crédito
+C210,2025-05-27,400,Tienda Física,Tarjeta Crédito
+C253,2025-05-27,180,Online,Tarjeta Crédito
+C057,2025-05-27,400,Tienda Física,Tarjeta Crédito
+C248,2025-05-27,300,Online,Tarjeta Débito
+C271,2025-05-28,180,App,Efectivo
+C154,2025-05-28,160,Tienda Física,Tarjeta Crédito
+C065,2025-05-28,140,Tienda Física,Tarjeta Crédito
+C149,2025-05-28,180,Tienda Física,Efectivo
+C042,2025-05-28,180,Online,Tarjeta Débito
+C295,2025-05-28,160,Tienda Física,Tarjeta Crédito
+C111,2025-05-28,500,Tienda Física,Tarjeta Crédito
+C208,2025-05-28,300,Tienda Física,Tarjeta Débito
+C295,2025-05-29,180,App,Tarjeta Débito
+C010,2025-05-29,40,Tienda Física,Efectivo
+C053,2025-05-29,160,Tienda Física,Tarjeta Crédito
+C192,2025-05-29,400,Tienda Física,Tarjeta Crédito
+C262,2025-05-29,120,Tienda Física,Tarjeta Débito
+C193,2025-05-29,180,App,Tarjeta Débito
+C179,2025-05-29,140,Tienda Física,Tarjeta Débito
+C238,2025-05-29,500,Tienda Física,Tarjeta Crédito
+C263,2025-05-30,60,Online,Tarjeta Crédito
+C079,2025-05-30,30,Tienda Física,Efectivo
+C080,2025-05-30,120,App,Tarjeta Crédito
+C230,2025-05-30,500,Tienda Física,Tarjeta Crédito
+C079,2025-05-30,20,Tienda Física,Efectivo
+C093,2025-05-30,100,Tienda Física,Tarjeta Débito
+C007,2025-05-30,500,Tienda Física,Tarjeta Crédito
+C247,2025-05-30,160,Tienda Física,Efectivo
+C277,2025-05-31,100,Tienda Física,Efectivo
+C238,2025-05-31,350,Online,Tarjeta Débito
+C219,2025-05-31,100,Online,Tarjeta Débito
+C074,2025-05-31,50,Tienda Física,Efectivo
+C048,2025-05-31,480,Tienda Física,Tarjeta Crédito
+C019,2025-05-31,180,Online,Tarjeta Débito
+C068,2025-05-31,30,Tienda Física,Efectivo
+C138,2025-05-31,300,Tienda Física,Tarjeta Crédito
+C084,2025-05-31,10,Tienda Física,Efectivo
+C023,2025-05-31,160,Online,Efectivo
+C296,2025-05-31,60,App,Tarjeta Crédito
+C043,2025-06-01,480,Tienda Física,Tarjeta Crédito
+C180,2025-06-01,20,Tienda Física,Efectivo
+C298,2025-06-01,350,Online,Tarjeta Crédito
+C161,2025-06-01,120,Tienda Física,Tarjeta Crédito
+C279,2025-06-01,160,Online,Tarjeta Débito
+C255,2025-06-01,300,Online,Tarjeta Crédito
+C296,2025-06-01,60,App,Tarjeta Crédito
+C034,2025-06-01,400,Tienda Física,Tarjeta Crédito
+C167,2025-06-01,160,Tienda Física,Efectivo
+C089,2025-06-01,200,Online,Tarjeta Crédito
+C276,2025-06-01,140,App,Efectivo
+C050,2025-06-01,160,Online,Efectivo
+C215,2025-06-01,20,Tienda Física,Efectivo
+C241,2025-06-01,500,Tienda Física,Tarjeta Crédito
+C022,2025-06-01,30,Tienda Física,Efectivo
+C159,2025-06-01,40,Tienda Física,Efectivo
+C184,2025-06-02,120,Online,Tarjeta Débito
+C190,2025-06-02,300,Online,Tarjeta Crédito
+C257,2025-06-02,500,Tienda Física,Tarjeta Crédito
+C138,2025-06-02,480,Tienda Física,Tarjeta Crédito
+C022,2025-06-02,10,Tienda Física,Efectivo
+C155,2025-06-02,160,App,Tarjeta Crédito
+C191,2025-06-02,30,Tienda Física,Efectivo
+C182,2025-06-02,200,Tienda Física,Tarjeta Débito
+C233,2025-06-02,120,Online,Tarjeta Débito
+C276,2025-06-02,180,Tienda Física,Tarjeta Crédito
+C175,2025-06-02,450,Tienda Física,Tarjeta Crédito
+C264,2025-06-02,480,Tienda Física,Tarjeta Crédito
+C092,2025-06-02,350,Tienda Física,Tarjeta Crédito
+C140,2025-06-02,450,Tienda Física,Tarjeta Crédito
+C088,2025-06-02,500,Tienda Física,Tarjeta Crédito
+C045,2025-06-02,100,Online,Tarjeta Débito
+C223,2025-06-02,500,Tienda Física,Tarjeta Crédito
+C063,2025-06-02,140,Online,Efectivo
+C259,2025-06-03,180,Online,Tarjeta Débito
+C186,2025-06-03,180,App,Tarjeta Crédito
+C197,2025-06-04,120,Online,Tarjeta Débito
+C281,2025-06-04,400,Tienda Física,Tarjeta Crédito
+C133,2025-06-04,20,Tienda Física,Efectivo
+C083,2025-06-04,160,Tienda Física,Tarjeta Crédito
+C292,2025-06-04,20,Tienda Física,Efectivo
+C228,2025-06-04,200,Tienda Física,Tarjeta Crédito
+C074,2025-06-04,50,Tienda Física,Efectivo
+C223,2025-06-04,500,Tienda Física,Tarjeta Crédito
+C169,2025-06-04,350,Tienda Física,Tarjeta Crédito
+C050,2025-06-04,120,Tienda Física,Efectivo
+C097,2025-06-05,400,Tienda Física,Tarjeta Crédito
+C019,2025-06-05,120,Tienda Física,Tarjeta Débito
+C064,2025-06-05,100,Tienda Física,Tarjeta Crédito
+C077,2025-06-05,480,Tienda Física,Tarjeta Crédito
+C163,2025-06-05,480,Tienda Física,Tarjeta Crédito
+C256,2025-06-05,180,Tienda Física,Efectivo
+C126,2025-06-05,160,Tienda Física,Tarjeta Crédito
+C153,2025-06-05,500,Tienda Física,Tarjeta Crédito
+C272,2025-06-05,350,Tienda Física,Tarjeta Débito
+C204,2025-06-05,100,App,Efectivo
+C226,2025-06-06,50,Tienda Física,Efectivo
+C103,2025-06-06,140,App,Tarjeta Crédito
+C276,2025-06-06,200,Online,Tarjeta Débito
+C259,2025-06-06,200,Online,Tarjeta Débito
+C138,2025-06-06,450,Tienda Física,Tarjeta Crédito
+C128,2025-06-06,10,Tienda Física,Efectivo
+C221,2025-06-06,180,Tienda Física,Tarjeta Crédito
+C098,2025-06-06,450,Tienda Física,Tarjeta Crédito
+C159,2025-06-06,60,App,Efectivo
+C145,2025-06-06,60,App,Tarjeta Débito
+C062,2025-06-06,160,App,Tarjeta Débito
+C117,2025-06-06,10,Tienda Física,Efectivo
+C062,2025-06-06,160,App,Tarjeta Crédito
+C053,2025-06-07,200,Tienda Física,Tarjeta Crédito
+C190,2025-06-07,300,Online,Tarjeta Débito
+C156,2025-06-07,140,App,Efectivo
+C266,2025-06-07,450,Tienda Física,Tarjeta Crédito
+C110,2025-06-07,10,Tienda Física,Efectivo
+C246,2025-06-07,500,Tienda Física,Tarjeta Crédito
+C113,2025-06-07,160,App,Tarjeta Débito
+C265,2025-06-07,180,Online,Tarjeta Crédito
+C219,2025-06-08,100,App,Tarjeta Crédito
+C187,2025-06-08,200,Tienda Física,Tarjeta Crédito
+C095,2025-06-08,40,Tienda Física,Efectivo
+C178,2025-06-08,400,Tienda Física,Tarjeta Crédito
+C243,2025-06-08,100,App,Efectivo
+C170,2025-06-08,50,Tienda Física,Efectivo
+C066,2025-06-08,140,App,Efectivo
+C085,2025-06-08,300,Tienda Física,Tarjeta Débito
+C125,2025-06-08,350,Online,Tarjeta Crédito
+C124,2025-06-08,480,Tienda Física,Tarjeta Crédito
+C263,2025-06-09,50,Tienda Física,Efectivo
+C204,2025-06-09,140,Tienda Física,Efectivo
+C106,2025-06-09,300,Online,Tarjeta Crédito
+C218,2025-06-09,10,Tienda Física,Efectivo
+C133,2025-06-09,60,App,Tarjeta Crédito
+C218,2025-06-09,50,Tienda Física,Efectivo
+C032,2025-06-09,180,Online,Tarjeta Débito
+C228,2025-06-09,120,Online,Tarjeta Crédito
+C027,2025-06-09,160,Online,Tarjeta Crédito
+C277,2025-06-09,160,Online,Efectivo
+C025,2025-06-09,120,Online,Efectivo
+C259,2025-06-09,180,Online,Tarjeta Crédito
+C051,2025-06-09,160,Online,Tarjeta Crédito
+C025,2025-06-10,120,Tienda Física,Efectivo
+C017,2025-06-10,50,Tienda Física,Efectivo
+C155,2025-06-10,160,App,Tarjeta Débito
+C205,2025-06-10,40,Tienda Física,Efectivo
+C169,2025-06-10,350,Tienda Física,Tarjeta Débito
+C102,2025-06-10,450,Tienda Física,Tarjeta Crédito
+C260,2025-06-10,120,Tienda Física,Efectivo
+C123,2025-06-10,120,Tienda Física,Tarjeta Débito
+C091,2025-06-10,120,App,Tarjeta Débito
+C251,2025-06-10,500,Tienda Física,Tarjeta Crédito
+C212,2025-06-11,180,App,Tarjeta Débito
+C242,2025-06-11,140,Online,Tarjeta Crédito
+C066,2025-06-11,100,App,Tarjeta Débito
+C116,2025-06-11,180,App,Tarjeta Crédito
+C106,2025-06-11,300,Online,Tarjeta Débito
+C101,2025-06-11,200,Tienda Física,Tarjeta Débito
+C075,2025-06-12,450,Tienda Física,Tarjeta Crédito
+C065,2025-06-12,180,Tienda Física,Tarjeta Crédito
+C098,2025-06-12,480,Tienda Física,Tarjeta Crédito
+C254,2025-06-12,300,Online,Tarjeta Débito
+C149,2025-06-12,120,Online,Tarjeta Crédito
+C224,2025-06-12,500,Tienda Física,Tarjeta Crédito
+C220,2025-06-12,30,Tienda Física,Efectivo
+C153,2025-06-12,480,Tienda Física,Tarjeta Crédito
+C051,2025-06-12,200,Online,Tarjeta Crédito
+C025,2025-06-12,100,App,Efectivo
+C216,2025-06-12,140,Tienda Física,Tarjeta Crédito
+C036,2025-06-12,160,Tienda Física,Tarjeta Crédito
+C096,2025-06-12,180,Tienda Física,Efectivo
+C132,2025-06-12,450,Tienda Física,Tarjeta Crédito
+C169,2025-06-13,350,Tienda Física,Tarjeta Crédito
+C045,2025-06-13,120,Tienda Física,Efectivo
+C239,2025-06-13,140,Online,Tarjeta Crédito
+C081,2025-06-13,20,Tienda Física,Efectivo
+C151,2025-06-13,200,Tienda Física,Tarjeta Débito
+C279,2025-06-13,180,Tienda Física,Tarjeta Crédito
+C209,2025-06-13,10,Tienda Física,Efectivo
+C110,2025-06-13,50,Tienda Física,Efectivo
+C197,2025-06-13,120,Tienda Física,Tarjeta Crédito
+C253,2025-06-13,200,Online,Tarjeta Crédito
+C117,2025-06-13,60,App,Efectivo
+C181,2025-06-14,500,Tienda Física,Tarjeta Crédito
+C293,2025-06-14,160,Tienda Física,Tarjeta Crédito
+C101,2025-06-14,100,App,Tarjeta Crédito
+C118,2025-06-14,140,App,Efectivo
+C239,2025-06-14,140,App,Tarjeta Débito
+C183,2025-06-14,480,Tienda Física,Tarjeta Crédito
+C263,2025-06-14,60,App,Tarjeta Débito
+C067,2025-06-14,300,Tienda Física,Tarjeta Crédito
+C096,2025-06-14,160,Tienda Física,Tarjeta Débito
+C240,2025-06-14,120,Online,Efectivo
+C254,2025-06-14,480,Tienda Física,Tarjeta Crédito
+C091,2025-06-15,120,App,Tarjeta Crédito
+C127,2025-06-15,120,Tienda Física,Efectivo
+C134,2025-06-15,500,Tienda Física,Tarjeta Crédito
+C187,2025-06-15,180,App,Tarjeta Crédito
+C206,2025-06-15,180,Online,Tarjeta Crédito
+C287,2025-06-15,450,Tienda Física,Tarjeta Crédito
+C061,2025-06-15,500,Tienda Física,Tarjeta Crédito
+C214,2025-06-15,100,Tienda Física,Tarjeta Crédito
+C291,2025-06-15,450,Tienda Física,Tarjeta Crédito
+C271,2025-06-15,200,Online,Tarjeta Débito
+C266,2025-06-16,480,Tienda Física,Tarjeta Crédito
+C192,2025-06-16,500,Tienda Física,Tarjeta Crédito
+C228,2025-06-16,180,Online,Tarjeta Crédito
+C233,2025-06-16,100,App,Efectivo
+C195,2025-06-16,180,Online,Tarjeta Crédito
+C054,2025-06-16,500,Tienda Física,Tarjeta Crédito
+C055,2025-06-16,40,Tienda Física,Efectivo
+C292,2025-06-17,60,Online,Tarjeta Débito
+C178,2025-06-17,350,Tienda Física,Tarjeta Crédito
+C296,2025-06-17,60,App,Tarjeta Crédito
+C112,2025-06-17,300,Tienda Física,Tarjeta Crédito
+C170,2025-06-17,60,Tienda Física,Efectivo
+C129,2025-06-17,120,Tienda Física,Efectivo
+C127,2025-06-17,200,Online,Tarjeta Crédito
+C297,2025-06-17,480,Tienda Física,Tarjeta Crédito
+C192,2025-06-17,300,Online,Tarjeta Débito
+C174,2025-06-18,300,Online,Tarjeta Débito
+C217,2025-06-18,30,Tienda Física,Efectivo
+C180,2025-06-18,20,Tienda Física,Efectivo
+C024,2025-06-18,100,Online,Efectivo
+C018,2025-06-18,200,Tienda Física,Tarjeta Crédito
+C114,2025-06-18,350,Online,Tarjeta Crédito
+C170,2025-06-18,50,Tienda Física,Efectivo
+C091,2025-06-18,140,Online,Tarjeta Crédito
+C170,2025-06-18,60,Online,Efectivo
+C102,2025-06-18,480,Tienda Física,Tarjeta Crédito
+C068,2025-06-18,40,Tienda Física,Efectivo
+C060,2025-06-18,350,Tienda Física,Tarjeta Débito
+C146,2025-06-18,20,Tienda Física,Efectivo
+C054,2025-06-18,480,Tienda Física,Tarjeta Crédito
+C101,2025-06-19,100,Online,Tarjeta Débito
+C290,2025-06-19,480,Tienda Física,Tarjeta Crédito
+C267,2025-06-19,20,Tienda Física,Efectivo
+C153,2025-06-19,500,Tienda Física,Tarjeta Crédito
+C038,2025-06-19,160,App,Tarjeta Crédito
+C183,2025-06-19,500,Tienda Física,Tarjeta Crédito
+C174,2025-06-19,300,Online,Tarjeta Débito
+C036,2025-06-19,180,Tienda Física,Tarjeta Crédito
+C230,2025-06-20,500,Tienda Física,Tarjeta Crédito
+C225,2025-06-20,180,App,Efectivo
+C284,2025-06-20,200,Online,Tarjeta Crédito
+C065,2025-06-20,200,Online,Tarjeta Débito
+C168,2025-06-20,180,Tienda Física,Efectivo
+C041,2025-06-20,500,Tienda Física,Tarjeta Crédito
+C184,2025-06-20,100,Tienda Física,Tarjeta Débito
+C078,2025-06-20,450,Tienda Física,Tarjeta Crédito
+C111,2025-06-20,480,Tienda Física,Tarjeta Crédito
+C011,2025-06-20,180,App,Efectivo
+C265,2025-06-20,200,Online,Tarjeta Débito
+C077,2025-06-20,450,Tienda Física,Tarjeta Crédito
+C265,2025-06-20,120,App,Tarjeta Crédito
+C114,2025-06-20,400,Tienda Física,Tarjeta Crédito
+C093,2025-06-21,100,Tienda Física,Tarjeta Crédito
+C072,2025-06-21,480,Tienda Física,Tarjeta Crédito
+C158,2025-06-21,350,Tienda Física,Tarjeta Débito
+C228,2025-06-21,100,Online,Efectivo
+C159,2025-06-21,60,Online,Tarjeta Crédito
+C198,2025-06-21,100,App,Tarjeta Crédito
+C297,2025-06-21,450,Tienda Física,Tarjeta Crédito
+C013,2025-06-21,120,App,Tarjeta Crédito
+C147,2025-06-21,200,Tienda Física,Tarjeta Débito
+C236,2025-06-21,400,Tienda Física,Tarjeta Crédito
+C249,2025-06-21,500,Tienda Física,Tarjeta Crédito
+C195,2025-06-21,200,Online,Tarjeta Crédito
+C006,2025-06-21,160,Tienda Física,Efectivo
+C063,2025-06-21,100,App,Tarjeta Crédito
+C042,2025-06-21,160,App,Efectivo
+C234,2025-06-21,300,Tienda Física,Tarjeta Débito
+C220,2025-06-21,10,Tienda Física,Efectivo
+C122,2025-06-21,480,Tienda Física,Tarjeta Crédito
+C030,2025-06-21,200,Tienda Física,Tarjeta Crédito
+C041,2025-06-21,300,Online,Tarjeta Crédito
+C288,2025-06-21,120,Online,Tarjeta Crédito
+C170,2025-06-22,60,Online,Tarjeta Débito
+C227,2025-06-22,450,Tienda Física,Tarjeta Crédito
+C276,2025-06-22,100,Online,Tarjeta Crédito
+C243,2025-06-22,120,Online,Tarjeta Crédito
+C202,2025-06-22,160,Tienda Física,Efectivo
+C173,2025-06-22,450,Tienda Física,Tarjeta Crédito
+C137,2025-06-22,480,Tienda Física,Tarjeta Crédito
+C069,2025-06-22,480,Tienda Física,Tarjeta Crédito
+C217,2025-06-22,30,Tienda Física,Efectivo
+C297,2025-06-22,450,Tienda Física,Tarjeta Crédito
+C242,2025-06-22,140,Online,Tarjeta Débito
+C019,2025-06-22,180,App,Tarjeta Débito
+C160,2025-06-22,500,Tienda Física,Tarjeta Crédito
+C068,2025-06-23,50,Tienda Física,Efectivo
+C112,2025-06-23,350,Online,Tarjeta Crédito
+C293,2025-06-23,180,Online,Tarjeta Débito
+C024,2025-06-23,140,Online,Efectivo
+C258,2025-06-23,180,App,Tarjeta Débito
+C255,2025-06-23,350,Online,Tarjeta Crédito
+C249,2025-06-23,480,Tienda Física,Tarjeta Crédito
+C259,2025-06-23,180,Online,Tarjeta Débito
+C136,2025-06-23,480,Tienda Física,Tarjeta Crédito
+C246,2025-06-24,400,Tienda Física,Tarjeta Crédito
+C054,2025-06-24,450,Tienda Física,Tarjeta Crédito
+C238,2025-06-24,450,Tienda Física,Tarjeta Crédito
+C218,2025-06-24,30,Tienda Física,Efectivo
+C069,2025-06-24,500,Tienda Física,Tarjeta Crédito
+C018,2025-06-24,180,Online,Tarjeta Débito
+C073,2025-06-24,400,Tienda Física,Tarjeta Crédito
+C263,2025-06-24,10,Tienda Física,Efectivo
+C017,2025-06-24,40,Tienda Física,Efectivo
+C017,2025-06-25,40,Tienda Física,Efectivo
+C014,2025-06-25,120,App,Tarjeta Débito
+C037,2025-06-25,160,App,Efectivo
+C202,2025-06-25,160,Tienda Física,Tarjeta Débito
+C219,2025-06-25,120,Tienda Física,Tarjeta Crédito
+C158,2025-06-25,300,Online,Tarjeta Débito
+C221,2025-06-25,180,Tienda Física,Tarjeta Crédito
+C178,2025-06-25,350,Tienda Física,Tarjeta Débito
+C269,2025-06-25,480,Tienda Física,Tarjeta Crédito
+C280,2025-06-25,350,Tienda Física,Tarjeta Crédito
+C104,2025-06-26,400,Tienda Física,Tarjeta Crédito
+C076,2025-06-26,100,App,Efectivo
+C110,2025-06-26,10,Tienda Física,Efectivo
+C200,2025-06-26,60,App,Tarjeta Crédito
+C155,2025-06-26,160,App,Tarjeta Débito
+C277,2025-06-26,120,Online,Efectivo
+C182,2025-06-26,200,Tienda Física,Tarjeta Crédito
+C032,2025-06-27,200,Tienda Física,Tarjeta Crédito
+C010,2025-06-27,50,Tienda Física,Efectivo
+C246,2025-06-27,500,Tienda Física,Tarjeta Crédito
+C096,2025-06-27,180,Online,Tarjeta Crédito
+C168,2025-06-27,160,Online,Tarjeta Débito
+C123,2025-06-27,100,Online,Tarjeta Débito
+C092,2025-06-27,400,Tienda Física,Tarjeta Crédito
+C004,2025-06-27,30,Tienda Física,Efectivo
+C221,2025-06-27,200,Online,Tarjeta Débito
+C239,2025-06-27,120,Tienda Física,Efectivo
+C168,2025-06-27,180,App,Tarjeta Crédito
+C133,2025-06-27,40,Tienda Física,Efectivo
+C241,2025-06-27,300,Online,Tarjeta Crédito
+C291,2025-06-27,450,Tienda Física,Tarjeta Crédito
+C179,2025-06-27,140,Tienda Física,Efectivo
+C124,2025-06-27,480,Tienda Física,Tarjeta Crédito
+C234,2025-06-27,450,Tienda Física,Tarjeta Crédito
+C045,2025-06-28,160,Tienda Física,Tarjeta Crédito
+C003,2025-06-28,60,App,Tarjeta Crédito
+C233,2025-06-28,100,Online,Tarjeta Crédito
+C274,2025-06-28,120,Tienda Física,Efectivo
+C015,2025-06-28,400,Tienda Física,Tarjeta Crédito
+C156,2025-06-28,100,App,Efectivo
+C261,2025-06-28,500,Tienda Física,Tarjeta Crédito
+C090,2025-06-28,160,App,Tarjeta Crédito
+C121,2025-06-28,400,Tienda Física,Tarjeta Crédito
+C079,2025-06-28,20,Tienda Física,Efectivo
+C296,2025-06-28,50,Tienda Física,Efectivo
+C183,2025-06-28,480,Tienda Física,Tarjeta Crédito
+C178,2025-06-29,300,Tienda Física,Tarjeta Crédito
+C051,2025-06-29,120,App,Efectivo
+C139,2025-06-29,30,Tienda Física,Efectivo
+C046,2025-06-29,120,Tienda Física,Tarjeta Débito
+C278,2025-06-29,30,Tienda Física,Efectivo
+C294,2025-06-29,140,Online,Efectivo
+C218,2025-06-29,10,Tienda Física,Efectivo
+C233,2025-06-29,100,Online,Efectivo
+C154,2025-06-29,120,Tienda Física,Efectivo
+C295,2025-06-29,200,Tienda Física,Tarjeta Crédito
+C044,2025-06-30,100,Online,Efectivo
+C184,2025-06-30,100,Online,Tarjeta Débito
+C044,2025-06-30,100,Tienda Física,Efectivo
+C257,2025-06-30,300,Online,Tarjeta Débito
+C136,2025-06-30,500,Tienda Física,Tarjeta Crédito
+C229,2025-06-30,500,Tienda Física,Tarjeta Crédito
+C262,2025-06-30,100,Online,Efectivo
+C128,2025-06-30,20,Tienda Física,Efectivo
+C042,2025-06-30,180,App,Tarjeta Crédito
+C228,2025-06-30,200,Online,Tarjeta Débito
+C037,2025-06-30,160,Tienda Física,Tarjeta Débito
